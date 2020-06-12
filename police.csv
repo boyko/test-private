@@ -1,0 +1,4024 @@
+"race","week","gender","count"
+"Asian","2016-44","Female",5
+"Asian","2016-44","Male",5
+"Asian","2016-45","Female",4
+"Asian","2016-45","Male",11
+"Asian","2016-46","Female",1
+"Asian","2016-46","Male",2
+"Asian","2016-47","Female",5
+"Asian","2016-47","Male",8
+"Asian","2016-48","Female",3
+"Asian","2016-48","Male",11
+"Asian","2016-49","Female",2
+"Asian","2016-49","Male",3
+"Asian","2016-50","Female",2
+"Asian","2016-50","Male",8
+"Asian","2016-51","Female",2
+"Asian","2016-51","Male",5
+"Asian","2016-52","Female",3
+"Asian","2016-52","Male",3
+"Asian","2017-01","Female",2
+"Asian","2017-01","Male",6
+"Asian","2017-02","Female",7
+"Asian","2017-02","Male",10
+"Asian","2017-03","Female",6
+"Asian","2017-03","Unknown",1
+"Asian","2017-03","Male",3
+"Asian","2017-04","Female",8
+"Asian","2017-04","Male",10
+"Asian","2017-05","Female",2
+"Asian","2017-05","Male",7
+"Asian","2017-06","Female",10
+"Asian","2017-06","Male",15
+"Asian","2017-07","Female",3
+"Asian","2017-07","Male",11
+"Asian","2017-08","Female",6
+"Asian","2017-08","Male",13
+"Asian","2017-09","Female",7
+"Asian","2017-09","Male",8
+"Asian","2017-10","Female",13
+"Asian","2017-10","Male",9
+"Asian","2017-11","Female",2
+"Asian","2017-11","Male",13
+"Asian","2017-11","Unknown",2
+"Asian","2017-12","Female",3
+"Asian","2017-12","Male",8
+"Asian","2017-13","Female",3
+"Asian","2017-13","Male",19
+"Asian","2017-14","Female",6
+"Asian","2017-14","Male",9
+"Asian","2017-15","Female",7
+"Asian","2017-15","Male",17
+"Asian","2017-16","Female",9
+"Asian","2017-16","Male",12
+"Asian","2017-17","Female",3
+"Asian","2017-17","Male",15
+"Asian","2017-18","Female",2
+"Asian","2017-18","Male",3
+"Asian","2017-19","Female",6
+"Asian","2017-19","Male",8
+"Asian","2017-20","Female",6
+"Asian","2017-20","Male",6
+"Asian","2017-21","Female",6
+"Asian","2017-21","Male",15
+"Asian","2017-22","Female",4
+"Asian","2017-22","Male",14
+"Asian","2017-23","Female",4
+"Asian","2017-23","Male",9
+"Asian","2017-24","Female",1
+"Asian","2017-24","Male",6
+"Asian","2017-25","Female",3
+"Asian","2017-25","Male",13
+"Asian","2017-26","Female",3
+"Asian","2017-26","Male",10
+"Asian","2017-27","Female",2
+"Asian","2017-27","Male",8
+"Asian","2017-28","Female",4
+"Asian","2017-28","Male",9
+"Asian","2017-29","Female",8
+"Asian","2017-29","Male",8
+"Asian","2017-30","Female",5
+"Asian","2017-30","Male",7
+"Asian","2017-31","Female",2
+"Asian","2017-31","Male",9
+"Asian","2017-32","Female",5
+"Asian","2017-32","Male",6
+"Asian","2017-33","Female",3
+"Asian","2017-33","Male",6
+"Asian","2017-34","Female",2
+"Asian","2017-34","Unknown",1
+"Asian","2017-34","Male",9
+"Asian","2017-35","Female",2
+"Asian","2017-35","Male",6
+"Asian","2017-36","Female",6
+"Asian","2017-36","Male",9
+"Asian","2017-37","Female",3
+"Asian","2017-37","Male",4
+"Asian","2017-38","Female",2
+"Asian","2017-38","Male",9
+"Asian","2017-39","Female",5
+"Asian","2017-39","Male",7
+"Asian","2017-40","Female",2
+"Asian","2017-40","Male",10
+"Asian","2017-41","Female",6
+"Asian","2017-41","Male",2
+"Asian","2017-42","Female",1
+"Asian","2017-42","Male",4
+"Asian","2017-43","Female",3
+"Asian","2017-43","Male",9
+"Asian","2017-44","Female",5
+"Asian","2017-44","Male",5
+"Asian","2017-45","Male",4
+"Asian","2017-46","Female",4
+"Asian","2017-46","Male",4
+"Asian","2017-47","Female",6
+"Asian","2017-47","Male",10
+"Asian","2017-48","Female",5
+"Asian","2017-48","Male",6
+"Asian","2017-49","Female",2
+"Asian","2017-49","Male",6
+"Asian","2017-50","Female",5
+"Asian","2017-50","Male",8
+"Asian","2017-51","Female",3
+"Asian","2017-51","Male",6
+"Asian","2017-52","Female",2
+"Asian","2017-52","Male",4
+"Asian","2018-01","Male",7
+"Asian","2018-02","Female",1
+"Asian","2018-02","Male",1
+"Asian","2018-03","Female",3
+"Asian","2018-03","Male",9
+"Asian","2018-04","Male",8
+"Asian","2018-05","Female",4
+"Asian","2018-05","Male",1
+"Asian","2018-06","Female",5
+"Asian","2018-06","Male",7
+"Asian","2018-07","Female",2
+"Asian","2018-07","Male",4
+"Asian","2018-08","Female",3
+"Asian","2018-08","Male",9
+"Asian","2018-09","Female",5
+"Asian","2018-09","Male",10
+"Asian","2018-10","Female",4
+"Asian","2018-10","Male",11
+"Asian","2018-11","Female",5
+"Asian","2018-11","Male",8
+"Asian","2018-12","Female",4
+"Asian","2018-12","Male",11
+"Asian","2018-13","Female",5
+"Asian","2018-13","Male",9
+"Asian","2018-14","Female",4
+"Asian","2018-14","Male",8
+"Asian","2018-15","Female",5
+"Asian","2018-15","Male",13
+"Asian","2018-16","Female",6
+"Asian","2018-16","Male",5
+"Asian","2018-17","Female",4
+"Asian","2018-17","Male",3
+"Asian","2018-18","Female",2
+"Asian","2018-18","Male",9
+"Asian","2018-19","Female",2
+"Asian","2018-19","Male",7
+"Asian","2018-20","Female",7
+"Asian","2018-20","Male",9
+"Asian","2018-21","Female",4
+"Asian","2018-21","Male",10
+"Asian","2018-22","Female",7
+"Asian","2018-22","Male",10
+"Asian","2018-23","Female",8
+"Asian","2018-23","Male",4
+"Asian","2018-24","Female",5
+"Asian","2018-24","Male",5
+"Asian","2018-25","Female",1
+"Asian","2018-25","Male",7
+"Asian","2018-26","Female",4
+"Asian","2018-26","Male",2
+"Asian","2018-27","Female",1
+"Asian","2018-27","Male",8
+"Asian","2018-28","Female",4
+"Asian","2018-28","Male",8
+"Asian","2018-29","Female",6
+"Asian","2018-29","Male",8
+"Asian","2018-30","Female",6
+"Asian","2018-30","Male",14
+"Asian","2018-31","Female",1
+"Asian","2018-31","Male",13
+"Asian","2018-32","Female",1
+"Asian","2018-32","Male",13
+"Asian","2018-33","Female",3
+"Asian","2018-33","Male",4
+"Asian","2018-34","Female",4
+"Asian","2018-34","Male",11
+"Asian","2018-35","Female",4
+"Asian","2018-35","Male",6
+"Asian","2018-36","Female",2
+"Asian","2018-36","Male",9
+"Asian","2018-37","Female",2
+"Asian","2018-37","Male",9
+"Asian","2018-38","Female",2
+"Asian","2018-38","Male",12
+"Asian","2018-39","Female",3
+"Asian","2018-39","Male",1
+"Asian","2018-39","Unknown",1
+"Asian","2018-40","Female",3
+"Asian","2018-40","Male",7
+"Asian","2018-41","Female",2
+"Asian","2018-41","Male",6
+"Asian","2018-42","Female",1
+"Asian","2018-42","Male",11
+"Asian","2018-43","Female",3
+"Asian","2018-43","Male",11
+"Asian","2018-44","Female",6
+"Asian","2018-44","Male",7
+"Asian","2018-45","Female",7
+"Asian","2018-45","Male",5
+"Asian","2018-46","Female",2
+"Asian","2018-46","Male",8
+"Asian","2018-47","Female",1
+"Asian","2018-47","Male",6
+"Asian","2018-48","Female",2
+"Asian","2018-48","Male",6
+"Asian","2018-49","Female",1
+"Asian","2018-49","Male",3
+"Asian","2018-50","Female",2
+"Asian","2018-50","Male",14
+"Asian","2018-51","Female",5
+"Asian","2018-51","Male",6
+"Asian","2018-52","Female",2
+"Asian","2018-52","Male",13
+"Asian","2019-01","Female",2
+"Asian","2019-01","Male",8
+"Asian","2019-02","Female",5
+"Asian","2019-02","Male",5
+"Asian","2019-03","Female",4
+"Asian","2019-03","Male",6
+"Asian","2019-04","Female",2
+"Asian","2019-04","Male",8
+"Asian","2019-05","Male",5
+"Asian","2019-06","Female",3
+"Asian","2019-06","Male",7
+"Asian","2019-07","Male",1
+"Asian","2019-08","Female",4
+"Asian","2019-08","Male",2
+"Asian","2019-09","Female",1
+"Asian","2019-09","Male",3
+"Asian","2019-10","Male",8
+"Asian","2019-11","Female",4
+"Asian","2019-11","Male",8
+"Asian","2019-12","Female",2
+"Asian","2019-12","Male",8
+"Asian","2019-13","Female",4
+"Asian","2019-13","Male",6
+"Asian","2019-14","Female",2
+"Asian","2019-14","Male",4
+"Asian","2019-15","Female",2
+"Asian","2019-15","Male",3
+"Asian","2019-16","Female",4
+"Asian","2019-16","Male",7
+"Asian","2019-17","Female",3
+"Asian","2019-17","Male",4
+"Asian","2019-18","Female",4
+"Asian","2019-18","Male",5
+"Asian","2019-19","Female",2
+"Asian","2019-19","Male",6
+"Asian","2019-20","Female",1
+"Asian","2019-20","Male",4
+"Asian","2019-21","Female",1
+"Asian","2019-21","Male",4
+"Asian","2019-22","Female",4
+"Asian","2019-22","Male",8
+"Asian","2019-23","Female",1
+"Asian","2019-23","Male",2
+"Asian","2019-24","Female",7
+"Asian","2019-24","Male",4
+"Asian","2019-25","Female",4
+"Asian","2019-25","Male",7
+"Asian","2019-26","Female",4
+"Asian","2019-26","Male",5
+"Asian","2019-27","Female",3
+"Asian","2019-27","Male",4
+"Asian","2019-28","Female",6
+"Asian","2019-28","Male",7
+"Asian","2019-29","Female",4
+"Asian","2019-29","Male",6
+"Asian","2019-29","Unknown",1
+"Asian","2019-30","Female",3
+"Asian","2019-30","Male",2
+"Asian","2019-31","Female",2
+"Asian","2019-31","Male",8
+"Asian","2019-32","Female",5
+"Asian","2019-32","Male",4
+"Asian","2019-33","Female",2
+"Asian","2019-33","Male",7
+"Asian","2019-34","Female",10
+"Asian","2019-34","Male",7
+"Asian","2019-35","Female",2
+"Asian","2019-35","Male",7
+"Asian","2019-36","Female",2
+"Asian","2019-36","Male",11
+"Asian","2019-37","Female",2
+"Asian","2019-37","Male",7
+"Asian","2019-38","Female",2
+"Asian","2019-38","Male",8
+"Asian","2019-39","Female",5
+"Asian","2019-39","Male",8
+"Asian","2019-40","Female",6
+"Asian","2019-40","Male",7
+"Asian","2019-41","Female",1
+"Asian","2019-41","Male",6
+"Asian","2019-42","Female",2
+"Asian","2019-42","Male",3
+"Asian","2019-43","Female",2
+"Asian","2019-43","Male",5
+"Asian","2019-44","Female",4
+"Asian","2019-44","Male",2
+"Asian","2019-45","Female",1
+"Asian","2019-45","Male",2
+"Asian","2019-46","Female",4
+"Asian","2019-46","Male",4
+"Asian","2019-47","Female",2
+"Asian","2019-47","Male",3
+"Asian","2019-48","Female",1
+"Asian","2019-48","Male",5
+"Asian","2019-49","Female",3
+"Asian","2019-49","Male",4
+"Asian","2019-49","Unknown",1
+"Asian","2019-50","Female",4
+"Asian","2019-50","Male",3
+"Asian","2019-51","Female",2
+"Asian","2019-51","Male",4
+"Asian","2019-52","Female",3
+"Asian","2019-52","Male",2
+"Asian","2020-01","Female",3
+"Asian","2020-01","Male",4
+"Asian","2020-02","Female",1
+"Asian","2020-02","Male",4
+"Asian","2020-03","Female",2
+"Asian","2020-03","Male",3
+"Asian","2020-04","Female",5
+"Asian","2020-04","Male",5
+"Asian","2020-05","Female",6
+"Asian","2020-05","Male",9
+"Asian","2020-06","Female",1
+"Asian","2020-06","Male",8
+"Asian","2020-07","Female",5
+"Asian","2020-07","Male",2
+"Asian","2020-07","Unknown",1
+"Asian","2020-08","Female",2
+"Asian","2020-08","Male",4
+"Asian","2020-09","Female",4
+"Asian","2020-09","Male",4
+"Asian","2020-10","Female",4
+"Asian","2020-10","Male",6
+"Asian","2020-11","Female",2
+"Asian","2020-11","Male",5
+"Asian","2020-12","Female",4
+"Asian","2020-12","Male",6
+"Asian","2020-13","Female",2
+"Asian","2020-13","Male",4
+"Asian","2020-14","Male",6
+"Asian","2020-15","Female",3
+"Asian","2020-15","Male",6
+"Asian","2020-16","Female",2
+"Asian","2020-16","Male",4
+"Asian","2020-17","Female",1
+"Asian","2020-17","Male",2
+"Asian","2020-18","Female",4
+"Asian","2020-18","Male",6
+"Asian","2020-19","Female",3
+"Asian","2020-19","Male",4
+"Asian","2020-20","Female",2
+"Asian","2020-20","Male",3
+"Asian","2020-21","Female",3
+"Asian","2020-21","Male",7
+"Asian","2020-22","Male",1
+"Asian","2020-23","Unknown",1
+"Asian","2020-24","Male",1
+"Black","2016-44","Female",39
+"Black","2016-44","Unknown",1
+"Black","2016-44","Male",139
+"Black","2016-44","Unknown",3
+"Black","2016-45","Female",56
+"Black","2016-45","Male",169
+"Black","2016-46","Female",36
+"Black","2016-46","Unknown",1
+"Black","2016-46","Male",152
+"Black","2016-46","Unknown",1
+"Black","2016-47","Female",37
+"Black","2016-47","Unknown",1
+"Black","2016-47","Male",149
+"Black","2016-47","Unknown",1
+"Black","2016-48","Female",48
+"Black","2016-48","Male",158
+"Black","2016-48","Unknown",2
+"Black","2016-49","Female",40
+"Black","2016-49","Male",134
+"Black","2016-50","Female",38
+"Black","2016-50","Male",144
+"Black","2016-51","Female",49
+"Black","2016-51","Male",162
+"Black","2016-52","Female",67
+"Black","2016-52","Male",191
+"Black","2016-52","Unknown",3
+"Black","2017-01","Female",41
+"Black","2017-01","Male",187
+"Black","2017-02","Female",64
+"Black","2017-02","Unknown",1
+"Black","2017-02","Male",168
+"Black","2017-03","Female",60
+"Black","2017-03","Male",187
+"Black","2017-04","Female",81
+"Black","2017-04","Male",224
+"Black","2017-04","Unknown",3
+"Black","2017-05","Female",83
+"Black","2017-05","Unknown",1
+"Black","2017-05","Male",216
+"Black","2017-05","Unknown",2
+"Black","2017-06","Female",101
+"Black","2017-06","Male",315
+"Black","2017-06","Unknown",1
+"Black","2017-07","Female",109
+"Black","2017-07","Male",303
+"Black","2017-07","Unknown",1
+"Black","2017-08","Female",85
+"Black","2017-08","Unknown",1
+"Black","2017-08","Male",257
+"Black","2017-08","Unknown",1
+"Black","2017-09","Female",90
+"Black","2017-09","Male",258
+"Black","2017-10","Female",74
+"Black","2017-10","Male",272
+"Black","2017-11","Female",92
+"Black","2017-11","Male",327
+"Black","2017-11","Unknown",1
+"Black","2017-12","Female",86
+"Black","2017-12","Male",244
+"Black","2017-12","Unknown",1
+"Black","2017-13","Female",102
+"Black","2017-13","Unknown",2
+"Black","2017-13","Male",279
+"Black","2017-14","Female",107
+"Black","2017-14","Unknown",1
+"Black","2017-14","Male",323
+"Black","2017-14","Unknown",2
+"Black","2017-15","Female",74
+"Black","2017-15","Male",284
+"Black","2017-15","Unknown",2
+"Black","2017-16","Female",101
+"Black","2017-16","Male",248
+"Black","2017-16","Unknown",4
+"Black","2017-17","Female",94
+"Black","2017-17","Unknown",1
+"Black","2017-17","Male",264
+"Black","2017-17","Unknown",1
+"Black","2017-18","Female",79
+"Black","2017-18","Male",241
+"Black","2017-18","Unknown",1
+"Black","2017-19","Female",72
+"Black","2017-19","Male",230
+"Black","2017-19","Unknown",1
+"Black","2017-20","Female",73
+"Black","2017-20","Unknown",1
+"Black","2017-20","Male",238
+"Black","2017-20","Unknown",1
+"Black","2017-21","Female",65
+"Black","2017-21","Unknown",1
+"Black","2017-21","Male",228
+"Black","2017-21","Unknown",3
+"Black","2017-22","Female",85
+"Black","2017-22","Unknown",1
+"Black","2017-22","Male",220
+"Black","2017-23","Female",61
+"Black","2017-23","Unknown",1
+"Black","2017-23","Male",234
+"Black","2017-23","Unknown",1
+"Black","2017-24","Female",73
+"Black","2017-24","Unknown",1
+"Black","2017-24","Male",220
+"Black","2017-25","Female",75
+"Black","2017-25","Unknown",1
+"Black","2017-25","Male",230
+"Black","2017-25","Unknown",1
+"Black","2017-26","Female",65
+"Black","2017-26","Male",261
+"Black","2017-26","Unknown",3
+"Black","2017-27","Female",50
+"Black","2017-27","Male",236
+"Black","2017-27","Unknown",2
+"Black","2017-28","Female",82
+"Black","2017-28","Unknown",1
+"Black","2017-28","Male",257
+"Black","2017-29","Female",85
+"Black","2017-29","Male",250
+"Black","2017-29","Unknown",3
+"Black","2017-30","Female",46
+"Black","2017-30","Male",191
+"Black","2017-31","Female",53
+"Black","2017-31","Male",196
+"Black","2017-31","Unknown",2
+"Black","2017-32","Female",58
+"Black","2017-32","Male",188
+"Black","2017-32","Unknown",1
+"Black","2017-33","Female",79
+"Black","2017-33","Male",247
+"Black","2017-33","Unknown",1
+"Black","2017-34","Female",52
+"Black","2017-34","Male",246
+"Black","2017-35","Female",63
+"Black","2017-35","Male",236
+"Black","2017-35","Unknown",1
+"Black","2017-36","Female",57
+"Black","2017-36","Unknown",1
+"Black","2017-36","Male",244
+"Black","2017-36","Unknown",3
+"Black","2017-37","Female",50
+"Black","2017-37","Male",238
+"Black","2017-37","Unknown",1
+"Black","2017-38","Female",62
+"Black","2017-38","Male",267
+"Black","2017-38","Unknown",3
+"Black","2017-39","Female",79
+"Black","2017-39","Male",213
+"Black","2017-39","Unknown",2
+"Black","2017-40","Female",78
+"Black","2017-40","Male",235
+"Black","2017-40","Unknown",1
+"Black","2017-41","Female",62
+"Black","2017-41","Male",239
+"Black","2017-41","Unknown",1
+"Black","2017-42","Female",52
+"Black","2017-42","Male",234
+"Black","2017-42","Unknown",3
+"Black","2017-43","Female",62
+"Black","2017-43","Unknown",1
+"Black","2017-43","Male",231
+"Black","2017-43","Unknown",1
+"Black","2017-44","Female",58
+"Black","2017-44","Male",202
+"Black","2017-44","Unknown",4
+"Black","2017-45","Female",51
+"Black","2017-45","Male",192
+"Black","2017-46","Female",53
+"Black","2017-46","Male",153
+"Black","2017-47","Female",62
+"Black","2017-47","Male",212
+"Black","2017-48","Female",74
+"Black","2017-48","Unknown",1
+"Black","2017-48","Male",227
+"Black","2017-49","Female",35
+"Black","2017-49","Male",135
+"Black","2017-50","Female",54
+"Black","2017-50","Male",215
+"Black","2017-50","Unknown",2
+"Black","2017-51","Female",38
+"Black","2017-51","Male",166
+"Black","2017-51","Unknown",4
+"Black","2017-52","Female",45
+"Black","2017-52","Unknown",1
+"Black","2017-52","Male",166
+"Black","2017-52","Unknown",1
+"Black","2018-01","Female",34
+"Black","2018-01","Unknown",1
+"Black","2018-01","Male",183
+"Black","2018-02","Female",46
+"Black","2018-02","Male",151
+"Black","2018-03","Female",53
+"Black","2018-03","Male",169
+"Black","2018-03","Unknown",1
+"Black","2018-04","Female",33
+"Black","2018-04","Male",118
+"Black","2018-05","Female",36
+"Black","2018-05","Male",125
+"Black","2018-06","Female",55
+"Black","2018-06","Male",214
+"Black","2018-06","Unknown",1
+"Black","2018-07","Female",69
+"Black","2018-07","Unknown",1
+"Black","2018-07","Male",242
+"Black","2018-07","Unknown",1
+"Black","2018-08","Female",46
+"Black","2018-08","Male",136
+"Black","2018-09","Female",57
+"Black","2018-09","Male",246
+"Black","2018-10","Female",57
+"Black","2018-10","Male",271
+"Black","2018-10","Unknown",1
+"Black","2018-11","Female",83
+"Black","2018-11","Male",325
+"Black","2018-11","Unknown",1
+"Black","2018-12","Female",85
+"Black","2018-12","Male",296
+"Black","2018-12","Unknown",1
+"Black","2018-13","Female",83
+"Black","2018-13","Unknown",1
+"Black","2018-13","Male",273
+"Black","2018-13","Unknown",1
+"Black","2018-14","Female",80
+"Black","2018-14","Male",229
+"Black","2018-14","Unknown",1
+"Black","2018-15","Female",61
+"Black","2018-15","Male",211
+"Black","2018-16","Female",72
+"Black","2018-16","Male",259
+"Black","2018-16","Unknown",1
+"Black","2018-17","Female",58
+"Black","2018-17","Unknown",1
+"Black","2018-17","Male",246
+"Black","2018-17","Unknown",2
+"Black","2018-18","Female",95
+"Black","2018-18","Male",277
+"Black","2018-18","Unknown",4
+"Black","2018-19","Female",83
+"Black","2018-19","Male",271
+"Black","2018-19","Unknown",3
+"Black","2018-20","Female",78
+"Black","2018-20","Male",277
+"Black","2018-21","Female",89
+"Black","2018-21","Unknown",1
+"Black","2018-21","Male",299
+"Black","2018-21","Unknown",2
+"Black","2018-22","Female",78
+"Black","2018-22","Male",301
+"Black","2018-22","Unknown",1
+"Black","2018-23","Female",66
+"Black","2018-23","Male",227
+"Black","2018-23","Unknown",2
+"Black","2018-24","Female",68
+"Black","2018-24","Unknown",2
+"Black","2018-24","Male",199
+"Black","2018-25","Female",43
+"Black","2018-25","Male",204
+"Black","2018-25","Unknown",1
+"Black","2018-26","Female",45
+"Black","2018-26","Unknown",1
+"Black","2018-26","Male",179
+"Black","2018-26","Unknown",6
+"Black","2018-27","Female",68
+"Black","2018-27","Unknown",1
+"Black","2018-27","Male",236
+"Black","2018-27","Unknown",3
+"Black","2018-28","Female",70
+"Black","2018-28","Unknown",1
+"Black","2018-28","Male",228
+"Black","2018-28","Unknown",3
+"Black","2018-29","Female",59
+"Black","2018-29","Unknown",1
+"Black","2018-29","Male",208
+"Black","2018-29","Unknown",2
+"Black","2018-30","Female",71
+"Black","2018-30","Male",288
+"Black","2018-30","Unknown",5
+"Black","2018-31","Female",66
+"Black","2018-31","Unknown",1
+"Black","2018-31","Male",270
+"Black","2018-31","Unknown",5
+"Black","2018-32","Female",66
+"Black","2018-32","Male",253
+"Black","2018-32","Unknown",2
+"Black","2018-33","Female",70
+"Black","2018-33","Male",225
+"Black","2018-33","Unknown",3
+"Black","2018-34","Female",57
+"Black","2018-34","Male",225
+"Black","2018-34","Unknown",1
+"Black","2018-35","Female",73
+"Black","2018-35","Male",224
+"Black","2018-36","Female",52
+"Black","2018-36","Unknown",2
+"Black","2018-36","Male",201
+"Black","2018-36","Unknown",1
+"Black","2018-37","Female",58
+"Black","2018-37","Unknown",1
+"Black","2018-37","Male",191
+"Black","2018-37","Unknown",1
+"Black","2018-38","Female",87
+"Black","2018-38","Male",275
+"Black","2018-38","Unknown",2
+"Black","2018-39","Female",54
+"Black","2018-39","Male",223
+"Black","2018-40","Female",82
+"Black","2018-40","Male",242
+"Black","2018-40","Unknown",3
+"Black","2018-41","Female",52
+"Black","2018-41","Male",158
+"Black","2018-41","Unknown",1
+"Black","2018-42","Female",56
+"Black","2018-42","Male",207
+"Black","2018-42","Unknown",1
+"Black","2018-43","Female",67
+"Black","2018-43","Male",233
+"Black","2018-43","Unknown",2
+"Black","2018-44","Female",57
+"Black","2018-44","Male",198
+"Black","2018-44","Unknown",1
+"Black","2018-45","Female",42
+"Black","2018-45","Male",185
+"Black","2018-45","Unknown",2
+"Black","2018-46","Female",49
+"Black","2018-46","Unknown",1
+"Black","2018-46","Male",190
+"Black","2018-47","Female",38
+"Black","2018-47","Unknown",1
+"Black","2018-47","Male",150
+"Black","2018-47","Unknown",1
+"Black","2018-48","Female",27
+"Black","2018-48","Male",127
+"Black","2018-48","Unknown",2
+"Black","2018-49","Female",30
+"Black","2018-49","Male",139
+"Black","2018-49","Unknown",1
+"Black","2018-50","Female",44
+"Black","2018-50","Unknown",1
+"Black","2018-50","Male",195
+"Black","2018-50","Unknown",3
+"Black","2018-51","Female",50
+"Black","2018-51","Male",197
+"Black","2018-51","Unknown",3
+"Black","2018-52","Female",62
+"Black","2018-52","Male",166
+"Black","2018-52","Unknown",2
+"Black","2019-01","Female",66
+"Black","2019-01","Male",189
+"Black","2019-02","Female",62
+"Black","2019-02","Unknown",1
+"Black","2019-02","Male",203
+"Black","2019-03","Female",45
+"Black","2019-03","Male",160
+"Black","2019-04","Female",29
+"Black","2019-04","Male",141
+"Black","2019-04","Unknown",2
+"Black","2019-05","Female",37
+"Black","2019-05","Male",117
+"Black","2019-05","Unknown",1
+"Black","2019-06","Female",31
+"Black","2019-06","Male",126
+"Black","2019-07","Female",31
+"Black","2019-07","Male",130
+"Black","2019-08","Female",37
+"Black","2019-08","Male",136
+"Black","2019-09","Female",26
+"Black","2019-09","Male",124
+"Black","2019-10","Female",28
+"Black","2019-10","Male",166
+"Black","2019-11","Female",46
+"Black","2019-11","Male",208
+"Black","2019-12","Female",61
+"Black","2019-12","Male",235
+"Black","2019-12","Unknown",2
+"Black","2019-13","Female",56
+"Black","2019-13","Unknown",1
+"Black","2019-13","Male",225
+"Black","2019-14","Female",56
+"Black","2019-14","Male",210
+"Black","2019-15","Female",26
+"Black","2019-15","Male",138
+"Black","2019-16","Female",54
+"Black","2019-16","Male",180
+"Black","2019-16","Unknown",5
+"Black","2019-17","Female",47
+"Black","2019-17","Male",158
+"Black","2019-17","Unknown",2
+"Black","2019-18","Female",49
+"Black","2019-18","Male",151
+"Black","2019-18","Unknown",3
+"Black","2019-19","Female",52
+"Black","2019-19","Male",158
+"Black","2019-19","Unknown",1
+"Black","2019-20","Female",34
+"Black","2019-20","Male",131
+"Black","2019-20","Unknown",2
+"Black","2019-21","Female",50
+"Black","2019-21","Male",210
+"Black","2019-21","Unknown",2
+"Black","2019-22","Female",50
+"Black","2019-22","Male",210
+"Black","2019-22","Unknown",3
+"Black","2019-23","Female",46
+"Black","2019-23","Male",208
+"Black","2019-23","Unknown",7
+"Black","2019-24","Female",34
+"Black","2019-24","Male",176
+"Black","2019-24","Unknown",1
+"Black","2019-25","Female",43
+"Black","2019-25","Male",161
+"Black","2019-25","Unknown",1
+"Black","2019-26","Female",47
+"Black","2019-26","Male",178
+"Black","2019-26","Unknown",1
+"Black","2019-27","Female",41
+"Black","2019-27","Male",217
+"Black","2019-27","Unknown",4
+"Black","2019-28","Female",56
+"Black","2019-28","Male",250
+"Black","2019-28","Unknown",1
+"Black","2019-29","Female",74
+"Black","2019-29","Male",258
+"Black","2019-29","Unknown",3
+"Black","2019-30","Female",54
+"Black","2019-30","Male",225
+"Black","2019-30","Unknown",6
+"Black","2019-31","Female",56
+"Black","2019-31","Male",232
+"Black","2019-31","Unknown",4
+"Black","2019-32","Female",54
+"Black","2019-32","Unknown",1
+"Black","2019-32","Male",227
+"Black","2019-32","Unknown",4
+"Black","2019-33","Female",45
+"Black","2019-33","Male",185
+"Black","2019-34","Female",59
+"Black","2019-34","Male",255
+"Black","2019-34","Unknown",3
+"Black","2019-35","Female",68
+"Black","2019-35","Male",242
+"Black","2019-36","Female",64
+"Black","2019-36","Male",235
+"Black","2019-36","Unknown",5
+"Black","2019-37","Female",60
+"Black","2019-37","Male",184
+"Black","2019-38","Female",59
+"Black","2019-38","Unknown",2
+"Black","2019-38","Male",245
+"Black","2019-38","Unknown",2
+"Black","2019-39","Female",73
+"Black","2019-39","Unknown",3
+"Black","2019-39","Male",259
+"Black","2019-39","Unknown",1
+"Black","2019-40","Female",60
+"Black","2019-40","Unknown",1
+"Black","2019-40","Male",220
+"Black","2019-40","Unknown",2
+"Black","2019-41","Female",46
+"Black","2019-41","Male",155
+"Black","2019-42","Female",46
+"Black","2019-42","Male",162
+"Black","2019-42","Unknown",1
+"Black","2019-43","Female",55
+"Black","2019-43","Unknown",1
+"Black","2019-43","Male",169
+"Black","2019-44","Female",51
+"Black","2019-44","Male",176
+"Black","2019-45","Female",55
+"Black","2019-45","Male",210
+"Black","2019-45","Unknown",2
+"Black","2019-46","Female",42
+"Black","2019-46","Male",166
+"Black","2019-46","Unknown",1
+"Black","2019-47","Female",57
+"Black","2019-47","Male",157
+"Black","2019-47","Unknown",1
+"Black","2019-48","Female",24
+"Black","2019-48","Male",114
+"Black","2019-49","Female",38
+"Black","2019-49","Male",119
+"Black","2019-50","Female",35
+"Black","2019-50","Male",89
+"Black","2019-50","Unknown",1
+"Black","2019-51","Female",28
+"Black","2019-51","Male",145
+"Black","2019-52","Female",36
+"Black","2019-52","Male",141
+"Black","2019-52","Unknown",3
+"Black","2020-01","Female",24
+"Black","2020-01","Unknown",2
+"Black","2020-01","Male",125
+"Black","2020-02","Female",60
+"Black","2020-02","Unknown",1
+"Black","2020-02","Male",171
+"Black","2020-02","Unknown",1
+"Black","2020-03","Female",39
+"Black","2020-03","Male",164
+"Black","2020-03","Unknown",3
+"Black","2020-04","Female",56
+"Black","2020-04","Unknown",1
+"Black","2020-04","Male",175
+"Black","2020-04","Unknown",1
+"Black","2020-05","Female",50
+"Black","2020-05","Male",205
+"Black","2020-05","Unknown",1
+"Black","2020-06","Female",54
+"Black","2020-06","Unknown",1
+"Black","2020-06","Male",216
+"Black","2020-06","Unknown",2
+"Black","2020-07","Female",54
+"Black","2020-07","Male",151
+"Black","2020-08","Female",49
+"Black","2020-08","Male",170
+"Black","2020-08","Unknown",1
+"Black","2020-09","Female",60
+"Black","2020-09","Male",217
+"Black","2020-10","Female",76
+"Black","2020-10","Male",264
+"Black","2020-11","Female",57
+"Black","2020-11","Male",225
+"Black","2020-11","Unknown",1
+"Black","2020-12","Female",39
+"Black","2020-12","Male",174
+"Black","2020-13","Female",35
+"Black","2020-13","Male",161
+"Black","2020-14","Female",71
+"Black","2020-14","Male",178
+"Black","2020-14","Unknown",3
+"Black","2020-15","Female",62
+"Black","2020-15","Unknown",2
+"Black","2020-15","Male",180
+"Black","2020-15","Unknown",1
+"Black","2020-16","Female",59
+"Black","2020-16","Male",204
+"Black","2020-17","Female",68
+"Black","2020-17","Male",226
+"Black","2020-17","Unknown",3
+"Black","2020-18","Female",68
+"Black","2020-18","Unknown",2
+"Black","2020-18","Male",226
+"Black","2020-18","Unknown",3
+"Black","2020-19","Female",86
+"Black","2020-19","Male",291
+"Black","2020-19","Unknown",1
+"Black","2020-20","Female",76
+"Black","2020-20","Male",254
+"Black","2020-20","Unknown",6
+"Black","2020-21","Female",52
+"Black","2020-21","Unknown",1
+"Black","2020-21","Male",204
+"Black","2020-21","Unknown",1
+"Black","2020-22","Female",16
+"Black","2020-22","Male",73
+"Black","2020-23","Female",17
+"Black","2020-23","Unknown",1
+"Black","2020-23","Male",92
+"Black","2020-23","Unknown",3
+"Black","2020-24","Female",5
+"Black","2020-24","Male",7
+"East African","2016-44","Female",4
+"East African","2016-44","Male",10
+"East African","2016-45","Female",7
+"East African","2016-45","Male",19
+"East African","2016-46","Female",5
+"East African","2016-46","Male",22
+"East African","2016-46","Unknown",1
+"East African","2016-47","Female",9
+"East African","2016-47","Male",27
+"East African","2016-48","Female",6
+"East African","2016-48","Male",24
+"East African","2016-49","Female",6
+"East African","2016-49","Male",13
+"East African","2016-50","Female",7
+"East African","2016-50","Male",17
+"East African","2016-51","Female",7
+"East African","2016-51","Male",31
+"East African","2016-52","Female",6
+"East African","2016-52","Male",36
+"East African","2017-01","Female",7
+"East African","2017-01","Male",26
+"East African","2017-02","Female",8
+"East African","2017-02","Male",38
+"East African","2017-03","Female",11
+"East African","2017-03","Male",29
+"East African","2017-04","Female",12
+"East African","2017-04","Male",39
+"East African","2017-04","Unknown",1
+"East African","2017-05","Female",7
+"East African","2017-05","Male",32
+"East African","2017-06","Female",8
+"East African","2017-06","Male",48
+"East African","2017-07","Female",12
+"East African","2017-07","Male",37
+"East African","2017-08","Female",10
+"East African","2017-08","Male",37
+"East African","2017-09","Female",10
+"East African","2017-09","Male",48
+"East African","2017-10","Female",15
+"East African","2017-10","Male",55
+"East African","2017-11","Female",15
+"East African","2017-11","Male",47
+"East African","2017-12","Female",7
+"East African","2017-12","Male",42
+"East African","2017-13","Female",20
+"East African","2017-13","Male",47
+"East African","2017-14","Female",20
+"East African","2017-14","Male",45
+"East African","2017-15","Female",20
+"East African","2017-15","Male",44
+"East African","2017-16","Female",11
+"East African","2017-16","Male",57
+"East African","2017-17","Female",18
+"East African","2017-17","Male",32
+"East African","2017-18","Female",17
+"East African","2017-18","Male",37
+"East African","2017-19","Female",7
+"East African","2017-19","Male",37
+"East African","2017-20","Female",11
+"East African","2017-20","Male",37
+"East African","2017-21","Female",15
+"East African","2017-21","Male",38
+"East African","2017-21","Unknown",1
+"East African","2017-22","Female",6
+"East African","2017-22","Male",23
+"East African","2017-23","Female",12
+"East African","2017-23","Unknown",1
+"East African","2017-23","Male",34
+"East African","2017-24","Female",10
+"East African","2017-24","Male",40
+"East African","2017-25","Female",14
+"East African","2017-25","Male",43
+"East African","2017-26","Female",13
+"East African","2017-26","Male",27
+"East African","2017-27","Female",13
+"East African","2017-27","Male",38
+"East African","2017-27","Unknown",1
+"East African","2017-28","Female",10
+"East African","2017-28","Male",30
+"East African","2017-28","Unknown",1
+"East African","2017-29","Female",4
+"East African","2017-29","Male",33
+"East African","2017-29","Unknown",1
+"East African","2017-30","Female",4
+"East African","2017-30","Male",26
+"East African","2017-31","Female",9
+"East African","2017-31","Male",19
+"East African","2017-32","Female",5
+"East African","2017-32","Male",24
+"East African","2017-32","Unknown",1
+"East African","2017-33","Female",9
+"East African","2017-33","Male",20
+"East African","2017-33","Unknown",1
+"East African","2017-34","Female",6
+"East African","2017-34","Male",18
+"East African","2017-35","Female",3
+"East African","2017-35","Male",32
+"East African","2017-36","Female",10
+"East African","2017-36","Male",30
+"East African","2017-37","Female",5
+"East African","2017-37","Male",27
+"East African","2017-38","Female",2
+"East African","2017-38","Male",26
+"East African","2017-38","Unknown",1
+"East African","2017-39","Female",7
+"East African","2017-39","Male",25
+"East African","2017-39","Unknown",1
+"East African","2017-40","Female",2
+"East African","2017-40","Male",31
+"East African","2017-40","Unknown",1
+"East African","2017-41","Female",7
+"East African","2017-41","Male",38
+"East African","2017-42","Female",6
+"East African","2017-42","Male",19
+"East African","2017-42","Unknown",1
+"East African","2017-43","Female",2
+"East African","2017-43","Male",29
+"East African","2017-44","Female",8
+"East African","2017-44","Male",19
+"East African","2017-45","Female",3
+"East African","2017-45","Male",18
+"East African","2017-46","Female",7
+"East African","2017-46","Male",22
+"East African","2017-47","Female",6
+"East African","2017-47","Male",41
+"East African","2017-48","Female",18
+"East African","2017-48","Male",30
+"East African","2017-49","Female",6
+"East African","2017-49","Male",22
+"East African","2017-50","Female",8
+"East African","2017-50","Male",34
+"East African","2017-50","Unknown",1
+"East African","2017-51","Female",8
+"East African","2017-51","Male",18
+"East African","2017-52","Female",6
+"East African","2017-52","Male",34
+"East African","2018-01","Female",10
+"East African","2018-01","Male",15
+"East African","2018-02","Female",11
+"East African","2018-02","Male",25
+"East African","2018-03","Female",11
+"East African","2018-03","Male",19
+"East African","2018-04","Female",6
+"East African","2018-04","Male",22
+"East African","2018-05","Female",4
+"East African","2018-05","Male",14
+"East African","2018-05","Unknown",1
+"East African","2018-06","Female",8
+"East African","2018-06","Male",21
+"East African","2018-07","Female",9
+"East African","2018-07","Male",34
+"East African","2018-08","Female",4
+"East African","2018-08","Male",22
+"East African","2018-09","Female",11
+"East African","2018-09","Male",38
+"East African","2018-10","Female",9
+"East African","2018-10","Male",46
+"East African","2018-11","Female",13
+"East African","2018-11","Male",34
+"East African","2018-12","Female",8
+"East African","2018-12","Male",32
+"East African","2018-13","Female",10
+"East African","2018-13","Male",31
+"East African","2018-14","Female",10
+"East African","2018-14","Male",36
+"East African","2018-15","Female",10
+"East African","2018-15","Male",31
+"East African","2018-16","Female",18
+"East African","2018-16","Male",32
+"East African","2018-17","Female",9
+"East African","2018-17","Male",41
+"East African","2018-18","Female",5
+"East African","2018-18","Male",36
+"East African","2018-19","Female",12
+"East African","2018-19","Male",38
+"East African","2018-20","Female",7
+"East African","2018-20","Male",38
+"East African","2018-21","Female",8
+"East African","2018-21","Male",43
+"East African","2018-21","Unknown",1
+"East African","2018-22","Female",13
+"East African","2018-22","Male",47
+"East African","2018-23","Female",5
+"East African","2018-23","Male",30
+"East African","2018-24","Female",9
+"East African","2018-24","Male",29
+"East African","2018-24","Unknown",1
+"East African","2018-25","Female",8
+"East African","2018-25","Male",23
+"East African","2018-26","Female",5
+"East African","2018-26","Male",22
+"East African","2018-27","Female",8
+"East African","2018-27","Male",36
+"East African","2018-28","Female",9
+"East African","2018-28","Male",35
+"East African","2018-29","Female",7
+"East African","2018-29","Male",18
+"East African","2018-29","Unknown",1
+"East African","2018-30","Female",11
+"East African","2018-30","Male",42
+"East African","2018-31","Female",9
+"East African","2018-31","Male",27
+"East African","2018-32","Female",8
+"East African","2018-32","Male",27
+"East African","2018-33","Female",4
+"East African","2018-33","Male",26
+"East African","2018-34","Female",5
+"East African","2018-34","Male",27
+"East African","2018-35","Female",4
+"East African","2018-35","Male",26
+"East African","2018-36","Female",5
+"East African","2018-36","Male",24
+"East African","2018-36","Unknown",1
+"East African","2018-37","Female",12
+"East African","2018-37","Male",43
+"East African","2018-38","Female",15
+"East African","2018-38","Male",43
+"East African","2018-38","Unknown",1
+"East African","2018-39","Female",4
+"East African","2018-39","Male",39
+"East African","2018-40","Female",7
+"East African","2018-40","Male",41
+"East African","2018-41","Female",6
+"East African","2018-41","Male",33
+"East African","2018-42","Female",8
+"East African","2018-42","Male",44
+"East African","2018-43","Female",5
+"East African","2018-43","Male",26
+"East African","2018-44","Female",11
+"East African","2018-44","Male",26
+"East African","2018-45","Female",3
+"East African","2018-45","Male",38
+"East African","2018-46","Female",3
+"East African","2018-46","Male",35
+"East African","2018-47","Female",7
+"East African","2018-47","Male",31
+"East African","2018-48","Female",4
+"East African","2018-48","Male",14
+"East African","2018-49","Female",6
+"East African","2018-49","Male",17
+"East African","2018-50","Female",10
+"East African","2018-50","Male",31
+"East African","2018-51","Female",8
+"East African","2018-51","Male",38
+"East African","2018-52","Female",4
+"East African","2018-52","Male",26
+"East African","2019-01","Female",6
+"East African","2019-01","Male",50
+"East African","2019-02","Female",7
+"East African","2019-02","Male",43
+"East African","2019-03","Female",1
+"East African","2019-03","Male",23
+"East African","2019-03","Unknown",1
+"East African","2019-04","Female",5
+"East African","2019-04","Male",25
+"East African","2019-04","Unknown",1
+"East African","2019-05","Female",2
+"East African","2019-05","Male",23
+"East African","2019-06","Female",2
+"East African","2019-06","Male",19
+"East African","2019-07","Female",5
+"East African","2019-07","Male",20
+"East African","2019-08","Female",7
+"East African","2019-08","Male",37
+"East African","2019-09","Female",6
+"East African","2019-09","Male",37
+"East African","2019-10","Female",11
+"East African","2019-10","Male",42
+"East African","2019-11","Female",13
+"East African","2019-11","Male",44
+"East African","2019-12","Female",7
+"East African","2019-12","Male",39
+"East African","2019-13","Female",6
+"East African","2019-13","Male",39
+"East African","2019-14","Female",11
+"East African","2019-14","Male",41
+"East African","2019-14","Unknown",1
+"East African","2019-15","Female",3
+"East African","2019-15","Male",25
+"East African","2019-16","Female",6
+"East African","2019-16","Male",26
+"East African","2019-17","Female",7
+"East African","2019-17","Male",25
+"East African","2019-18","Female",7
+"East African","2019-18","Male",18
+"East African","2019-19","Female",4
+"East African","2019-19","Male",27
+"East African","2019-20","Female",3
+"East African","2019-20","Male",23
+"East African","2019-20","Unknown",1
+"East African","2019-21","Female",5
+"East African","2019-21","Male",36
+"East African","2019-22","Female",7
+"East African","2019-22","Male",42
+"East African","2019-23","Female",4
+"East African","2019-23","Unknown",1
+"East African","2019-23","Male",30
+"East African","2019-24","Female",3
+"East African","2019-24","Male",25
+"East African","2019-25","Female",6
+"East African","2019-25","Male",44
+"East African","2019-25","Unknown",1
+"East African","2019-26","Female",9
+"East African","2019-26","Male",36
+"East African","2019-27","Female",9
+"East African","2019-27","Male",39
+"East African","2019-27","Unknown",1
+"East African","2019-28","Female",5
+"East African","2019-28","Male",44
+"East African","2019-29","Female",3
+"East African","2019-29","Male",35
+"East African","2019-29","Unknown",1
+"East African","2019-30","Female",4
+"East African","2019-30","Male",25
+"East African","2019-31","Female",4
+"East African","2019-31","Male",32
+"East African","2019-32","Female",7
+"East African","2019-32","Male",44
+"East African","2019-33","Female",9
+"East African","2019-33","Male",44
+"East African","2019-34","Female",2
+"East African","2019-34","Male",19
+"East African","2019-35","Female",7
+"East African","2019-35","Male",22
+"East African","2019-35","Unknown",1
+"East African","2019-36","Female",11
+"East African","2019-36","Male",37
+"East African","2019-37","Female",4
+"East African","2019-37","Male",38
+"East African","2019-37","Unknown",1
+"East African","2019-38","Female",7
+"East African","2019-38","Male",35
+"East African","2019-39","Female",9
+"East African","2019-39","Male",37
+"East African","2019-40","Female",9
+"East African","2019-40","Male",41
+"East African","2019-41","Female",3
+"East African","2019-41","Male",22
+"East African","2019-42","Female",4
+"East African","2019-42","Male",37
+"East African","2019-43","Female",7
+"East African","2019-43","Male",31
+"East African","2019-44","Female",7
+"East African","2019-44","Male",26
+"East African","2019-45","Female",7
+"East African","2019-45","Male",28
+"East African","2019-46","Female",6
+"East African","2019-46","Male",33
+"East African","2019-47","Female",5
+"East African","2019-47","Male",22
+"East African","2019-48","Female",4
+"East African","2019-48","Male",31
+"East African","2019-49","Female",7
+"East African","2019-49","Male",27
+"East African","2019-50","Female",4
+"East African","2019-50","Male",19
+"East African","2019-51","Female",7
+"East African","2019-51","Male",31
+"East African","2019-52","Female",8
+"East African","2019-52","Male",29
+"East African","2020-01","Female",1
+"East African","2020-01","Male",21
+"East African","2020-02","Female",1
+"East African","2020-02","Male",33
+"East African","2020-03","Female",5
+"East African","2020-03","Male",19
+"East African","2020-03","Unknown",1
+"East African","2020-04","Female",7
+"East African","2020-04","Male",31
+"East African","2020-05","Female",5
+"East African","2020-05","Male",41
+"East African","2020-06","Female",4
+"East African","2020-06","Male",37
+"East African","2020-06","Unknown",1
+"East African","2020-07","Female",6
+"East African","2020-07","Male",23
+"East African","2020-08","Female",8
+"East African","2020-08","Male",24
+"East African","2020-09","Female",4
+"East African","2020-09","Male",24
+"East African","2020-10","Female",2
+"East African","2020-10","Male",31
+"East African","2020-10","Unknown",1
+"East African","2020-11","Female",8
+"East African","2020-11","Male",21
+"East African","2020-12","Female",6
+"East African","2020-12","Male",26
+"East African","2020-13","Female",6
+"East African","2020-13","Male",18
+"East African","2020-13","Unknown",1
+"East African","2020-14","Female",4
+"East African","2020-14","Male",30
+"East African","2020-14","Unknown",1
+"East African","2020-15","Female",3
+"East African","2020-15","Male",36
+"East African","2020-16","Female",5
+"East African","2020-16","Male",39
+"East African","2020-17","Female",5
+"East African","2020-17","Male",26
+"East African","2020-17","Unknown",1
+"East African","2020-18","Female",1
+"East African","2020-18","Male",29
+"East African","2020-19","Female",8
+"East African","2020-19","Male",52
+"East African","2020-19","Unknown",1
+"East African","2020-20","Female",4
+"East African","2020-20","Male",36
+"East African","2020-21","Female",10
+"East African","2020-21","Male",38
+"East African","2020-22","Female",2
+"East African","2020-22","Male",6
+"East African","2020-22","Unknown",1
+"East African","2020-23","Female",2
+"East African","2020-23","Male",14
+"Latino","2016-44","Female",3
+"Latino","2016-44","Male",22
+"Latino","2016-45","Female",7
+"Latino","2016-45","Unknown",1
+"Latino","2016-45","Male",27
+"Latino","2016-46","Female",2
+"Latino","2016-46","Male",24
+"Latino","2016-46","Unknown",2
+"Latino","2016-47","Female",3
+"Latino","2016-47","Male",33
+"Latino","2016-48","Female",7
+"Latino","2016-48","Male",30
+"Latino","2016-49","Female",7
+"Latino","2016-49","Male",16
+"Latino","2016-50","Unknown",1
+"Latino","2016-50","Male",20
+"Latino","2016-51","Female",8
+"Latino","2016-51","Male",22
+"Latino","2016-52","Female",7
+"Latino","2016-52","Male",24
+"Latino","2017-01","Female",5
+"Latino","2017-01","Male",21
+"Latino","2017-02","Female",9
+"Latino","2017-02","Male",32
+"Latino","2017-03","Female",8
+"Latino","2017-03","Male",29
+"Latino","2017-04","Female",6
+"Latino","2017-04","Male",28
+"Latino","2017-05","Female",7
+"Latino","2017-05","Male",29
+"Latino","2017-05","Unknown",1
+"Latino","2017-06","Female",8
+"Latino","2017-06","Male",47
+"Latino","2017-07","Female",10
+"Latino","2017-07","Male",41
+"Latino","2017-08","Female",11
+"Latino","2017-08","Male",32
+"Latino","2017-09","Female",11
+"Latino","2017-09","Male",43
+"Latino","2017-10","Female",5
+"Latino","2017-10","Male",25
+"Latino","2017-11","Female",7
+"Latino","2017-11","Male",33
+"Latino","2017-12","Female",5
+"Latino","2017-12","Male",39
+"Latino","2017-13","Female",15
+"Latino","2017-13","Male",58
+"Latino","2017-14","Female",12
+"Latino","2017-14","Male",40
+"Latino","2017-15","Female",7
+"Latino","2017-15","Male",51
+"Latino","2017-16","Female",10
+"Latino","2017-16","Male",46
+"Latino","2017-17","Female",15
+"Latino","2017-17","Male",39
+"Latino","2017-18","Female",7
+"Latino","2017-18","Male",32
+"Latino","2017-18","Unknown",1
+"Latino","2017-19","Female",10
+"Latino","2017-19","Male",39
+"Latino","2017-19","Unknown",1
+"Latino","2017-20","Female",12
+"Latino","2017-20","Male",25
+"Latino","2017-21","Female",8
+"Latino","2017-21","Male",40
+"Latino","2017-22","Female",12
+"Latino","2017-22","Male",28
+"Latino","2017-23","Female",11
+"Latino","2017-23","Male",23
+"Latino","2017-24","Female",11
+"Latino","2017-24","Male",31
+"Latino","2017-24","Unknown",1
+"Latino","2017-25","Female",7
+"Latino","2017-25","Male",22
+"Latino","2017-26","Female",5
+"Latino","2017-26","Male",26
+"Latino","2017-27","Female",7
+"Latino","2017-27","Male",26
+"Latino","2017-28","Female",9
+"Latino","2017-28","Male",21
+"Latino","2017-29","Female",9
+"Latino","2017-29","Male",26
+"Latino","2017-30","Female",7
+"Latino","2017-30","Male",20
+"Latino","2017-30","Unknown",1
+"Latino","2017-31","Female",3
+"Latino","2017-31","Male",17
+"Latino","2017-32","Female",6
+"Latino","2017-32","Male",16
+"Latino","2017-33","Female",8
+"Latino","2017-33","Male",28
+"Latino","2017-34","Female",5
+"Latino","2017-34","Male",30
+"Latino","2017-35","Female",6
+"Latino","2017-35","Male",23
+"Latino","2017-36","Female",5
+"Latino","2017-36","Male",20
+"Latino","2017-37","Female",12
+"Latino","2017-37","Male",25
+"Latino","2017-38","Female",6
+"Latino","2017-38","Male",27
+"Latino","2017-39","Female",7
+"Latino","2017-39","Male",19
+"Latino","2017-40","Female",5
+"Latino","2017-40","Male",28
+"Latino","2017-41","Female",12
+"Latino","2017-41","Male",23
+"Latino","2017-41","Unknown",1
+"Latino","2017-42","Female",11
+"Latino","2017-42","Male",29
+"Latino","2017-43","Female",10
+"Latino","2017-43","Male",18
+"Latino","2017-43","Unknown",1
+"Latino","2017-44","Female",5
+"Latino","2017-44","Male",17
+"Latino","2017-45","Female",4
+"Latino","2017-45","Male",22
+"Latino","2017-46","Female",6
+"Latino","2017-46","Male",18
+"Latino","2017-47","Female",7
+"Latino","2017-47","Male",29
+"Latino","2017-47","Unknown",1
+"Latino","2017-48","Female",5
+"Latino","2017-48","Male",32
+"Latino","2017-49","Female",5
+"Latino","2017-49","Male",14
+"Latino","2017-50","Female",3
+"Latino","2017-50","Male",23
+"Latino","2017-51","Female",6
+"Latino","2017-51","Unknown",1
+"Latino","2017-51","Male",21
+"Latino","2017-52","Female",3
+"Latino","2017-52","Male",23
+"Latino","2018-01","Female",3
+"Latino","2018-01","Male",31
+"Latino","2018-02","Female",8
+"Latino","2018-02","Male",17
+"Latino","2018-03","Female",6
+"Latino","2018-03","Male",18
+"Latino","2018-04","Female",5
+"Latino","2018-04","Male",20
+"Latino","2018-04","Unknown",2
+"Latino","2018-05","Female",7
+"Latino","2018-05","Male",18
+"Latino","2018-06","Female",3
+"Latino","2018-06","Male",23
+"Latino","2018-07","Female",7
+"Latino","2018-07","Male",28
+"Latino","2018-08","Female",6
+"Latino","2018-08","Male",23
+"Latino","2018-09","Female",4
+"Latino","2018-09","Male",27
+"Latino","2018-10","Female",10
+"Latino","2018-10","Male",35
+"Latino","2018-11","Female",6
+"Latino","2018-11","Male",33
+"Latino","2018-12","Female",10
+"Latino","2018-12","Male",32
+"Latino","2018-13","Female",5
+"Latino","2018-13","Male",28
+"Latino","2018-14","Female",5
+"Latino","2018-14","Male",28
+"Latino","2018-15","Female",7
+"Latino","2018-15","Male",24
+"Latino","2018-16","Female",10
+"Latino","2018-16","Male",27
+"Latino","2018-17","Female",5
+"Latino","2018-17","Male",41
+"Latino","2018-18","Female",6
+"Latino","2018-18","Male",25
+"Latino","2018-19","Female",5
+"Latino","2018-19","Male",48
+"Latino","2018-19","Unknown",1
+"Latino","2018-20","Female",5
+"Latino","2018-20","Male",30
+"Latino","2018-21","Female",9
+"Latino","2018-21","Male",30
+"Latino","2018-22","Female",10
+"Latino","2018-22","Male",32
+"Latino","2018-23","Female",5
+"Latino","2018-23","Male",26
+"Latino","2018-24","Female",5
+"Latino","2018-24","Male",26
+"Latino","2018-25","Female",9
+"Latino","2018-25","Male",34
+"Latino","2018-25","Unknown",1
+"Latino","2018-26","Female",6
+"Latino","2018-26","Male",25
+"Latino","2018-26","Unknown",1
+"Latino","2018-27","Female",11
+"Latino","2018-27","Male",19
+"Latino","2018-28","Female",5
+"Latino","2018-28","Male",28
+"Latino","2018-28","Unknown",1
+"Latino","2018-29","Female",6
+"Latino","2018-29","Male",21
+"Latino","2018-29","Unknown",1
+"Latino","2018-30","Female",9
+"Latino","2018-30","Male",24
+"Latino","2018-30","Unknown",2
+"Latino","2018-31","Female",6
+"Latino","2018-31","Male",33
+"Latino","2018-32","Female",5
+"Latino","2018-32","Male",32
+"Latino","2018-33","Female",5
+"Latino","2018-33","Male",24
+"Latino","2018-34","Female",3
+"Latino","2018-34","Male",23
+"Latino","2018-35","Female",9
+"Latino","2018-35","Male",15
+"Latino","2018-35","Unknown",1
+"Latino","2018-36","Female",1
+"Latino","2018-36","Male",19
+"Latino","2018-37","Female",9
+"Latino","2018-37","Male",23
+"Latino","2018-38","Female",8
+"Latino","2018-38","Male",35
+"Latino","2018-39","Female",6
+"Latino","2018-39","Male",22
+"Latino","2018-40","Female",5
+"Latino","2018-40","Male",27
+"Latino","2018-41","Female",3
+"Latino","2018-41","Male",17
+"Latino","2018-42","Female",6
+"Latino","2018-42","Male",17
+"Latino","2018-43","Female",4
+"Latino","2018-43","Male",21
+"Latino","2018-44","Female",9
+"Latino","2018-44","Male",22
+"Latino","2018-44","Unknown",1
+"Latino","2018-45","Female",5
+"Latino","2018-45","Male",22
+"Latino","2018-46","Female",3
+"Latino","2018-46","Male",17
+"Latino","2018-47","Female",6
+"Latino","2018-47","Male",17
+"Latino","2018-48","Female",7
+"Latino","2018-48","Male",20
+"Latino","2018-49","Female",9
+"Latino","2018-49","Male",15
+"Latino","2018-50","Female",4
+"Latino","2018-50","Male",28
+"Latino","2018-51","Female",7
+"Latino","2018-51","Male",31
+"Latino","2018-52","Female",3
+"Latino","2018-52","Male",17
+"Latino","2019-01","Female",3
+"Latino","2019-01","Male",24
+"Latino","2019-02","Female",9
+"Latino","2019-02","Male",22
+"Latino","2019-03","Female",6
+"Latino","2019-03","Male",14
+"Latino","2019-04","Female",8
+"Latino","2019-04","Male",16
+"Latino","2019-05","Female",4
+"Latino","2019-05","Male",11
+"Latino","2019-06","Female",4
+"Latino","2019-06","Male",10
+"Latino","2019-07","Female",1
+"Latino","2019-07","Male",27
+"Latino","2019-08","Female",1
+"Latino","2019-08","Male",16
+"Latino","2019-09","Female",3
+"Latino","2019-09","Male",14
+"Latino","2019-10","Female",1
+"Latino","2019-10","Male",17
+"Latino","2019-11","Female",8
+"Latino","2019-11","Male",23
+"Latino","2019-11","Unknown",1
+"Latino","2019-12","Female",5
+"Latino","2019-12","Male",21
+"Latino","2019-13","Female",11
+"Latino","2019-13","Male",27
+"Latino","2019-14","Female",5
+"Latino","2019-14","Male",19
+"Latino","2019-15","Female",5
+"Latino","2019-15","Male",14
+"Latino","2019-16","Female",6
+"Latino","2019-16","Male",27
+"Latino","2019-17","Female",6
+"Latino","2019-17","Male",12
+"Latino","2019-18","Female",3
+"Latino","2019-18","Male",17
+"Latino","2019-19","Female",4
+"Latino","2019-19","Male",21
+"Latino","2019-20","Male",13
+"Latino","2019-21","Female",7
+"Latino","2019-21","Male",19
+"Latino","2019-22","Female",9
+"Latino","2019-22","Male",26
+"Latino","2019-23","Female",4
+"Latino","2019-23","Unknown",1
+"Latino","2019-23","Male",21
+"Latino","2019-24","Female",7
+"Latino","2019-24","Male",21
+"Latino","2019-25","Female",9
+"Latino","2019-25","Male",21
+"Latino","2019-26","Female",4
+"Latino","2019-26","Male",22
+"Latino","2019-27","Male",20
+"Latino","2019-28","Female",8
+"Latino","2019-28","Male",20
+"Latino","2019-28","Unknown",1
+"Latino","2019-29","Female",4
+"Latino","2019-29","Male",23
+"Latino","2019-30","Female",5
+"Latino","2019-30","Male",15
+"Latino","2019-30","Unknown",1
+"Latino","2019-31","Female",5
+"Latino","2019-31","Male",30
+"Latino","2019-32","Female",8
+"Latino","2019-32","Male",22
+"Latino","2019-33","Female",5
+"Latino","2019-33","Male",30
+"Latino","2019-34","Female",5
+"Latino","2019-34","Male",25
+"Latino","2019-35","Female",5
+"Latino","2019-35","Male",21
+"Latino","2019-36","Female",2
+"Latino","2019-36","Male",23
+"Latino","2019-37","Female",9
+"Latino","2019-37","Male",17
+"Latino","2019-38","Female",5
+"Latino","2019-38","Male",22
+"Latino","2019-39","Female",9
+"Latino","2019-39","Male",30
+"Latino","2019-40","Female",4
+"Latino","2019-40","Male",28
+"Latino","2019-41","Female",8
+"Latino","2019-41","Male",15
+"Latino","2019-42","Female",5
+"Latino","2019-42","Male",18
+"Latino","2019-42","Unknown",1
+"Latino","2019-43","Female",4
+"Latino","2019-43","Male",13
+"Latino","2019-44","Female",4
+"Latino","2019-44","Male",25
+"Latino","2019-45","Female",4
+"Latino","2019-45","Male",21
+"Latino","2019-46","Female",5
+"Latino","2019-46","Male",13
+"Latino","2019-47","Female",5
+"Latino","2019-47","Male",20
+"Latino","2019-48","Female",2
+"Latino","2019-48","Male",12
+"Latino","2019-49","Female",2
+"Latino","2019-49","Male",22
+"Latino","2019-50","Female",4
+"Latino","2019-50","Male",13
+"Latino","2019-51","Female",5
+"Latino","2019-51","Male",26
+"Latino","2019-52","Female",4
+"Latino","2019-52","Male",15
+"Latino","2020-01","Female",4
+"Latino","2020-01","Male",15
+"Latino","2020-01","Unknown",1
+"Latino","2020-02","Female",6
+"Latino","2020-02","Male",21
+"Latino","2020-03","Female",4
+"Latino","2020-03","Male",15
+"Latino","2020-04","Female",11
+"Latino","2020-04","Male",16
+"Latino","2020-04","Unknown",1
+"Latino","2020-05","Female",4
+"Latino","2020-05","Male",29
+"Latino","2020-06","Female",3
+"Latino","2020-06","Male",18
+"Latino","2020-07","Female",8
+"Latino","2020-07","Male",10
+"Latino","2020-08","Female",9
+"Latino","2020-08","Male",23
+"Latino","2020-09","Female",7
+"Latino","2020-09","Male",19
+"Latino","2020-10","Female",9
+"Latino","2020-10","Male",32
+"Latino","2020-11","Female",3
+"Latino","2020-11","Male",18
+"Latino","2020-12","Female",4
+"Latino","2020-12","Male",22
+"Latino","2020-13","Female",2
+"Latino","2020-13","Male",17
+"Latino","2020-14","Female",4
+"Latino","2020-14","Male",17
+"Latino","2020-15","Female",3
+"Latino","2020-15","Male",19
+"Latino","2020-16","Female",1
+"Latino","2020-16","Unknown",1
+"Latino","2020-16","Male",14
+"Latino","2020-17","Female",4
+"Latino","2020-17","Male",19
+"Latino","2020-18","Female",4
+"Latino","2020-18","Male",17
+"Latino","2020-19","Female",3
+"Latino","2020-19","Male",26
+"Latino","2020-20","Female",5
+"Latino","2020-20","Male",25
+"Latino","2020-21","Female",7
+"Latino","2020-21","Male",25
+"Latino","2020-22","Male",2
+"Latino","2020-23","Male",9
+"Latino","2020-24","Male",1
+"Native","2016-44","Female",8
+"Native","2016-44","Male",10
+"Native","2016-45","Female",8
+"Native","2016-45","Male",14
+"Native","2016-46","Female",11
+"Native","2016-46","Male",13
+"Native","2016-47","Female",15
+"Native","2016-47","Male",7
+"Native","2016-48","Female",8
+"Native","2016-48","Male",11
+"Native","2016-49","Female",8
+"Native","2016-49","Male",11
+"Native","2016-50","Female",7
+"Native","2016-50","Male",11
+"Native","2016-51","Female",8
+"Native","2016-51","Male",13
+"Native","2016-52","Female",4
+"Native","2016-52","Male",6
+"Native","2017-01","Female",7
+"Native","2017-01","Male",10
+"Native","2017-02","Female",9
+"Native","2017-02","Male",12
+"Native","2017-03","Female",9
+"Native","2017-03","Male",11
+"Native","2017-04","Female",13
+"Native","2017-04","Male",16
+"Native","2017-05","Female",14
+"Native","2017-05","Male",11
+"Native","2017-06","Female",13
+"Native","2017-06","Male",22
+"Native","2017-07","Female",14
+"Native","2017-07","Male",15
+"Native","2017-08","Female",16
+"Native","2017-08","Male",20
+"Native","2017-09","Female",11
+"Native","2017-09","Male",32
+"Native","2017-10","Female",16
+"Native","2017-10","Male",16
+"Native","2017-11","Female",9
+"Native","2017-11","Male",28
+"Native","2017-12","Female",12
+"Native","2017-12","Male",28
+"Native","2017-12","Unknown",1
+"Native","2017-13","Female",22
+"Native","2017-13","Male",25
+"Native","2017-14","Female",13
+"Native","2017-14","Male",21
+"Native","2017-14","Unknown",1
+"Native","2017-15","Female",15
+"Native","2017-15","Male",24
+"Native","2017-16","Female",12
+"Native","2017-16","Male",21
+"Native","2017-17","Female",15
+"Native","2017-17","Male",20
+"Native","2017-18","Female",13
+"Native","2017-18","Unknown",1
+"Native","2017-18","Male",14
+"Native","2017-19","Female",21
+"Native","2017-19","Male",22
+"Native","2017-20","Female",6
+"Native","2017-20","Male",13
+"Native","2017-21","Female",13
+"Native","2017-21","Male",17
+"Native","2017-22","Female",18
+"Native","2017-22","Male",14
+"Native","2017-23","Female",17
+"Native","2017-23","Male",16
+"Native","2017-24","Female",14
+"Native","2017-24","Male",22
+"Native","2017-25","Female",12
+"Native","2017-25","Male",19
+"Native","2017-25","Unknown",1
+"Native","2017-26","Female",14
+"Native","2017-26","Male",21
+"Native","2017-27","Female",17
+"Native","2017-27","Male",27
+"Native","2017-28","Female",26
+"Native","2017-28","Male",20
+"Native","2017-29","Female",16
+"Native","2017-29","Male",29
+"Native","2017-29","Unknown",1
+"Native","2017-30","Female",12
+"Native","2017-30","Male",17
+"Native","2017-30","Unknown",3
+"Native","2017-31","Female",11
+"Native","2017-31","Male",22
+"Native","2017-32","Female",7
+"Native","2017-32","Unknown",1
+"Native","2017-32","Male",15
+"Native","2017-33","Female",9
+"Native","2017-33","Male",12
+"Native","2017-33","Unknown",1
+"Native","2017-34","Female",21
+"Native","2017-34","Male",23
+"Native","2017-34","Unknown",2
+"Native","2017-35","Female",17
+"Native","2017-35","Male",16
+"Native","2017-36","Female",13
+"Native","2017-36","Male",27
+"Native","2017-36","Unknown",1
+"Native","2017-37","Female",13
+"Native","2017-37","Male",22
+"Native","2017-38","Female",18
+"Native","2017-38","Male",20
+"Native","2017-39","Female",15
+"Native","2017-39","Male",15
+"Native","2017-40","Female",16
+"Native","2017-40","Male",20
+"Native","2017-40","Unknown",3
+"Native","2017-41","Female",14
+"Native","2017-41","Male",27
+"Native","2017-42","Female",11
+"Native","2017-42","Male",11
+"Native","2017-43","Female",7
+"Native","2017-43","Male",18
+"Native","2017-43","Unknown",1
+"Native","2017-44","Female",6
+"Native","2017-44","Male",12
+"Native","2017-44","Unknown",1
+"Native","2017-45","Female",4
+"Native","2017-45","Male",18
+"Native","2017-46","Female",5
+"Native","2017-46","Male",6
+"Native","2017-47","Female",11
+"Native","2017-47","Male",4
+"Native","2017-47","Unknown",1
+"Native","2017-48","Female",14
+"Native","2017-48","Unknown",1
+"Native","2017-48","Male",15
+"Native","2017-49","Female",5
+"Native","2017-49","Male",9
+"Native","2017-50","Female",8
+"Native","2017-50","Male",6
+"Native","2017-51","Female",9
+"Native","2017-51","Male",11
+"Native","2017-52","Female",10
+"Native","2017-52","Male",9
+"Native","2018-01","Female",6
+"Native","2018-01","Male",8
+"Native","2018-02","Female",8
+"Native","2018-02","Male",4
+"Native","2018-02","Unknown",1
+"Native","2018-03","Female",7
+"Native","2018-03","Male",11
+"Native","2018-03","Unknown",1
+"Native","2018-04","Female",7
+"Native","2018-04","Male",11
+"Native","2018-05","Female",1
+"Native","2018-05","Male",8
+"Native","2018-06","Female",5
+"Native","2018-06","Male",11
+"Native","2018-07","Female",7
+"Native","2018-07","Male",14
+"Native","2018-08","Female",5
+"Native","2018-08","Male",11
+"Native","2018-09","Female",14
+"Native","2018-09","Male",9
+"Native","2018-10","Female",11
+"Native","2018-10","Male",11
+"Native","2018-10","Unknown",1
+"Native","2018-11","Female",13
+"Native","2018-11","Male",14
+"Native","2018-12","Female",13
+"Native","2018-12","Male",10
+"Native","2018-13","Female",6
+"Native","2018-13","Male",16
+"Native","2018-14","Female",8
+"Native","2018-14","Male",8
+"Native","2018-15","Female",10
+"Native","2018-15","Male",11
+"Native","2018-16","Female",14
+"Native","2018-16","Male",9
+"Native","2018-17","Female",9
+"Native","2018-17","Male",18
+"Native","2018-18","Female",21
+"Native","2018-18","Male",9
+"Native","2018-19","Female",16
+"Native","2018-19","Male",20
+"Native","2018-20","Female",14
+"Native","2018-20","Male",15
+"Native","2018-21","Female",9
+"Native","2018-21","Male",20
+"Native","2018-22","Female",13
+"Native","2018-22","Male",20
+"Native","2018-23","Female",10
+"Native","2018-23","Unknown",1
+"Native","2018-23","Male",9
+"Native","2018-24","Female",10
+"Native","2018-24","Male",11
+"Native","2018-25","Female",10
+"Native","2018-25","Male",19
+"Native","2018-26","Female",6
+"Native","2018-26","Male",15
+"Native","2018-27","Female",3
+"Native","2018-27","Male",11
+"Native","2018-27","Unknown",1
+"Native","2018-28","Female",10
+"Native","2018-28","Male",21
+"Native","2018-29","Female",15
+"Native","2018-29","Male",13
+"Native","2018-29","Unknown",2
+"Native","2018-30","Female",15
+"Native","2018-30","Male",28
+"Native","2018-31","Female",12
+"Native","2018-31","Male",14
+"Native","2018-31","Unknown",1
+"Native","2018-32","Female",9
+"Native","2018-32","Male",9
+"Native","2018-33","Female",15
+"Native","2018-33","Male",11
+"Native","2018-34","Female",6
+"Native","2018-34","Male",10
+"Native","2018-34","Unknown",1
+"Native","2018-35","Female",9
+"Native","2018-35","Male",14
+"Native","2018-36","Female",7
+"Native","2018-36","Male",7
+"Native","2018-37","Female",7
+"Native","2018-37","Male",9
+"Native","2018-37","Unknown",1
+"Native","2018-38","Female",9
+"Native","2018-38","Male",9
+"Native","2018-38","Unknown",1
+"Native","2018-39","Female",12
+"Native","2018-39","Male",11
+"Native","2018-40","Female",5
+"Native","2018-40","Male",9
+"Native","2018-41","Female",7
+"Native","2018-41","Male",3
+"Native","2018-42","Female",7
+"Native","2018-42","Male",8
+"Native","2018-43","Female",3
+"Native","2018-43","Male",9
+"Native","2018-44","Female",4
+"Native","2018-44","Male",9
+"Native","2018-45","Female",3
+"Native","2018-45","Male",7
+"Native","2018-46","Female",10
+"Native","2018-46","Male",13
+"Native","2018-46","Unknown",1
+"Native","2018-47","Female",7
+"Native","2018-47","Male",3
+"Native","2018-48","Female",2
+"Native","2018-48","Unknown",1
+"Native","2018-48","Male",6
+"Native","2018-49","Female",2
+"Native","2018-49","Male",3
+"Native","2018-50","Female",2
+"Native","2018-50","Male",11
+"Native","2018-51","Female",7
+"Native","2018-51","Male",10
+"Native","2018-52","Female",6
+"Native","2018-52","Male",6
+"Native","2019-01","Female",6
+"Native","2019-01","Male",10
+"Native","2019-02","Female",5
+"Native","2019-02","Male",16
+"Native","2019-03","Female",3
+"Native","2019-03","Male",9
+"Native","2019-04","Female",8
+"Native","2019-04","Male",11
+"Native","2019-05","Female",4
+"Native","2019-05","Male",3
+"Native","2019-06","Female",5
+"Native","2019-06","Male",7
+"Native","2019-07","Female",3
+"Native","2019-07","Male",6
+"Native","2019-07","Unknown",1
+"Native","2019-08","Female",7
+"Native","2019-08","Male",3
+"Native","2019-09","Female",4
+"Native","2019-09","Male",5
+"Native","2019-10","Female",4
+"Native","2019-10","Male",10
+"Native","2019-11","Female",4
+"Native","2019-11","Male",12
+"Native","2019-12","Female",2
+"Native","2019-12","Male",13
+"Native","2019-13","Female",4
+"Native","2019-13","Male",8
+"Native","2019-14","Female",4
+"Native","2019-14","Male",10
+"Native","2019-15","Female",4
+"Native","2019-15","Male",8
+"Native","2019-16","Female",6
+"Native","2019-16","Male",11
+"Native","2019-17","Female",4
+"Native","2019-17","Male",8
+"Native","2019-18","Female",5
+"Native","2019-18","Male",10
+"Native","2019-19","Female",8
+"Native","2019-19","Male",10
+"Native","2019-19","Unknown",1
+"Native","2019-20","Female",7
+"Native","2019-20","Male",11
+"Native","2019-21","Female",17
+"Native","2019-21","Male",11
+"Native","2019-21","Unknown",1
+"Native","2019-22","Female",8
+"Native","2019-22","Male",13
+"Native","2019-23","Female",8
+"Native","2019-23","Male",12
+"Native","2019-24","Female",4
+"Native","2019-24","Unknown",1
+"Native","2019-24","Male",13
+"Native","2019-25","Female",14
+"Native","2019-25","Male",12
+"Native","2019-26","Female",10
+"Native","2019-26","Male",14
+"Native","2019-26","Unknown",1
+"Native","2019-27","Female",11
+"Native","2019-27","Male",15
+"Native","2019-28","Female",10
+"Native","2019-28","Male",13
+"Native","2019-29","Female",13
+"Native","2019-29","Male",16
+"Native","2019-30","Female",14
+"Native","2019-30","Male",15
+"Native","2019-31","Female",17
+"Native","2019-31","Male",20
+"Native","2019-32","Female",16
+"Native","2019-32","Male",12
+"Native","2019-33","Female",5
+"Native","2019-33","Male",20
+"Native","2019-33","Unknown",1
+"Native","2019-34","Female",4
+"Native","2019-34","Male",14
+"Native","2019-35","Female",6
+"Native","2019-35","Male",9
+"Native","2019-36","Female",8
+"Native","2019-36","Male",18
+"Native","2019-36","Unknown",1
+"Native","2019-37","Female",4
+"Native","2019-37","Male",8
+"Native","2019-38","Female",8
+"Native","2019-38","Male",13
+"Native","2019-39","Female",12
+"Native","2019-39","Male",14
+"Native","2019-39","Unknown",1
+"Native","2019-40","Female",7
+"Native","2019-40","Male",19
+"Native","2019-40","Unknown",1
+"Native","2019-41","Female",9
+"Native","2019-41","Male",13
+"Native","2019-42","Female",3
+"Native","2019-42","Male",10
+"Native","2019-43","Female",3
+"Native","2019-43","Male",10
+"Native","2019-44","Female",4
+"Native","2019-44","Male",9
+"Native","2019-45","Female",10
+"Native","2019-45","Male",6
+"Native","2019-46","Female",7
+"Native","2019-46","Male",7
+"Native","2019-47","Female",5
+"Native","2019-47","Male",9
+"Native","2019-48","Female",4
+"Native","2019-48","Male",3
+"Native","2019-49","Female",6
+"Native","2019-49","Male",9
+"Native","2019-50","Female",3
+"Native","2019-50","Unknown",1
+"Native","2019-50","Male",8
+"Native","2019-51","Female",4
+"Native","2019-51","Male",7
+"Native","2019-52","Female",5
+"Native","2019-52","Male",10
+"Native","2020-01","Female",7
+"Native","2020-01","Male",1
+"Native","2020-01","Unknown",1
+"Native","2020-02","Female",7
+"Native","2020-02","Male",9
+"Native","2020-03","Female",6
+"Native","2020-03","Male",8
+"Native","2020-04","Female",8
+"Native","2020-04","Male",8
+"Native","2020-05","Female",10
+"Native","2020-05","Male",11
+"Native","2020-06","Female",9
+"Native","2020-06","Male",9
+"Native","2020-07","Female",6
+"Native","2020-07","Male",12
+"Native","2020-08","Female",5
+"Native","2020-08","Male",8
+"Native","2020-09","Female",9
+"Native","2020-09","Male",10
+"Native","2020-10","Female",9
+"Native","2020-10","Male",16
+"Native","2020-11","Female",4
+"Native","2020-11","Male",17
+"Native","2020-12","Female",4
+"Native","2020-12","Male",9
+"Native","2020-13","Female",4
+"Native","2020-13","Male",14
+"Native","2020-14","Female",5
+"Native","2020-14","Male",10
+"Native","2020-15","Female",11
+"Native","2020-15","Male",20
+"Native","2020-15","Unknown",1
+"Native","2020-16","Female",5
+"Native","2020-16","Male",13
+"Native","2020-16","Unknown",1
+"Native","2020-17","Female",15
+"Native","2020-17","Male",13
+"Native","2020-18","Female",15
+"Native","2020-18","Male",15
+"Native","2020-18","Unknown",2
+"Native","2020-19","Female",9
+"Native","2020-19","Male",18
+"Native","2020-20","Female",5
+"Native","2020-20","Male",8
+"Native","2020-21","Female",9
+"Native","2020-21","Male",12
+"Native","2020-22","Female",1
+"Native","2020-22","Male",4
+"Native","2020-22","Unknown",1
+"Native","2020-23","Female",1
+"Native","2020-23","Male",5
+"Native","2020-24","Female",1
+"Native","2020-24","Male",1
+"Other","2016-44","Female",2
+"Other","2016-44","Male",6
+"Other","2016-44","Unknown",1
+"Other","2016-45","Female",9
+"Other","2016-45","Male",13
+"Other","2016-45","Unknown",1
+"Other","2016-46","Female",2
+"Other","2016-46","Male",13
+"Other","2016-46","Unknown",1
+"Other","2016-47","Female",5
+"Other","2016-47","Unknown",1
+"Other","2016-47","Male",18
+"Other","2016-47","Unknown",1
+"Other","2016-48","Female",4
+"Other","2016-48","Male",10
+"Other","2016-48","Unknown",4
+"Other","2016-49","Male",10
+"Other","2016-49","Unknown",2
+"Other","2016-50","Female",4
+"Other","2016-50","Male",11
+"Other","2016-50","Unknown",3
+"Other","2016-51","Female",4
+"Other","2016-51","Male",15
+"Other","2016-51","Unknown",6
+"Other","2016-52","Female",9
+"Other","2016-52","Male",24
+"Other","2016-52","Unknown",2
+"Other","2017-01","Female",6
+"Other","2017-01","Unknown",1
+"Other","2017-01","Male",15
+"Other","2017-01","Unknown",2
+"Other","2017-02","Female",8
+"Other","2017-02","Male",24
+"Other","2017-02","Unknown",2
+"Other","2017-03","Female",6
+"Other","2017-03","Male",13
+"Other","2017-03","Unknown",2
+"Other","2017-04","Female",8
+"Other","2017-04","Male",23
+"Other","2017-04","Unknown",3
+"Other","2017-05","Female",6
+"Other","2017-05","Male",25
+"Other","2017-05","Unknown",7
+"Other","2017-06","Female",6
+"Other","2017-06","Male",25
+"Other","2017-06","Unknown",5
+"Other","2017-07","Female",9
+"Other","2017-07","Unknown",1
+"Other","2017-07","Male",23
+"Other","2017-07","Unknown",1
+"Other","2017-08","Female",18
+"Other","2017-08","Male",26
+"Other","2017-09","Female",4
+"Other","2017-09","Male",21
+"Other","2017-09","Unknown",4
+"Other","2017-10","Female",6
+"Other","2017-10","Male",19
+"Other","2017-10","Unknown",4
+"Other","2017-11","Female",10
+"Other","2017-11","Male",26
+"Other","2017-11","Unknown",3
+"Other","2017-12","Female",7
+"Other","2017-12","Male",16
+"Other","2017-12","Unknown",3
+"Other","2017-13","Female",6
+"Other","2017-13","Male",24
+"Other","2017-13","Unknown",3
+"Other","2017-14","Female",8
+"Other","2017-14","Male",31
+"Other","2017-14","Unknown",1
+"Other","2017-15","Female",5
+"Other","2017-15","Male",20
+"Other","2017-15","Unknown",1
+"Other","2017-16","Female",11
+"Other","2017-16","Male",39
+"Other","2017-16","Unknown",3
+"Other","2017-17","Female",6
+"Other","2017-17","Male",22
+"Other","2017-17","Unknown",2
+"Other","2017-18","Female",6
+"Other","2017-18","Male",21
+"Other","2017-18","Unknown",1
+"Other","2017-19","Female",2
+"Other","2017-19","Male",21
+"Other","2017-19","Unknown",1
+"Other","2017-20","Female",5
+"Other","2017-20","Unknown",1
+"Other","2017-20","Male",17
+"Other","2017-20","Unknown",4
+"Other","2017-21","Female",8
+"Other","2017-21","Unknown",2
+"Other","2017-21","Male",18
+"Other","2017-21","Unknown",4
+"Other","2017-22","Female",4
+"Other","2017-22","Unknown",1
+"Other","2017-22","Male",15
+"Other","2017-22","Unknown",6
+"Other","2017-23","Female",12
+"Other","2017-23","Male",23
+"Other","2017-23","Unknown",1
+"Other","2017-24","Female",3
+"Other","2017-24","Male",13
+"Other","2017-24","Unknown",2
+"Other","2017-25","Female",5
+"Other","2017-25","Male",15
+"Other","2017-25","Unknown",2
+"Other","2017-26","Female",5
+"Other","2017-26","Unknown",1
+"Other","2017-26","Male",13
+"Other","2017-26","Unknown",4
+"Other","2017-27","Female",6
+"Other","2017-27","Unknown",2
+"Other","2017-27","Male",13
+"Other","2017-27","Unknown",3
+"Other","2017-28","Female",8
+"Other","2017-28","Male",23
+"Other","2017-28","Unknown",4
+"Other","2017-29","Female",2
+"Other","2017-29","Male",8
+"Other","2017-29","Unknown",2
+"Other","2017-30","Female",5
+"Other","2017-30","Unknown",1
+"Other","2017-30","Male",10
+"Other","2017-30","Unknown",5
+"Other","2017-31","Female",4
+"Other","2017-31","Male",8
+"Other","2017-31","Unknown",4
+"Other","2017-32","Female",5
+"Other","2017-32","Male",23
+"Other","2017-32","Unknown",4
+"Other","2017-33","Female",8
+"Other","2017-33","Male",12
+"Other","2017-33","Unknown",4
+"Other","2017-34","Female",7
+"Other","2017-34","Male",11
+"Other","2017-34","Unknown",2
+"Other","2017-35","Female",5
+"Other","2017-35","Male",19
+"Other","2017-35","Unknown",2
+"Other","2017-36","Female",5
+"Other","2017-36","Unknown",1
+"Other","2017-36","Male",13
+"Other","2017-36","Unknown",6
+"Other","2017-37","Female",8
+"Other","2017-37","Male",11
+"Other","2017-37","Unknown",3
+"Other","2017-38","Female",5
+"Other","2017-38","Male",16
+"Other","2017-38","Unknown",3
+"Other","2017-39","Female",7
+"Other","2017-39","Male",22
+"Other","2017-39","Unknown",3
+"Other","2017-40","Female",6
+"Other","2017-40","Unknown",1
+"Other","2017-40","Male",16
+"Other","2017-40","Unknown",6
+"Other","2017-41","Female",5
+"Other","2017-41","Male",19
+"Other","2017-41","Unknown",3
+"Other","2017-42","Female",3
+"Other","2017-42","Male",22
+"Other","2017-42","Unknown",1
+"Other","2017-43","Female",4
+"Other","2017-43","Male",21
+"Other","2017-43","Unknown",2
+"Other","2017-44","Female",5
+"Other","2017-44","Male",15
+"Other","2017-44","Unknown",3
+"Other","2017-45","Female",5
+"Other","2017-45","Male",19
+"Other","2017-46","Female",5
+"Other","2017-46","Male",15
+"Other","2017-46","Unknown",4
+"Other","2017-47","Female",4
+"Other","2017-47","Male",12
+"Other","2017-48","Female",8
+"Other","2017-48","Male",18
+"Other","2017-48","Unknown",1
+"Other","2017-49","Female",2
+"Other","2017-49","Unknown",2
+"Other","2017-49","Male",9
+"Other","2017-49","Unknown",1
+"Other","2017-50","Female",3
+"Other","2017-50","Male",21
+"Other","2017-51","Female",1
+"Other","2017-51","Unknown",1
+"Other","2017-51","Male",8
+"Other","2017-51","Unknown",3
+"Other","2017-52","Female",3
+"Other","2017-52","Male",21
+"Other","2017-52","Unknown",5
+"Other","2018-01","Female",3
+"Other","2018-01","Male",12
+"Other","2018-02","Female",4
+"Other","2018-02","Male",15
+"Other","2018-02","Unknown",1
+"Other","2018-03","Female",8
+"Other","2018-03","Male",13
+"Other","2018-04","Female",5
+"Other","2018-04","Male",20
+"Other","2018-05","Female",10
+"Other","2018-05","Male",16
+"Other","2018-05","Unknown",5
+"Other","2018-06","Female",6
+"Other","2018-06","Unknown",1
+"Other","2018-06","Male",13
+"Other","2018-06","Unknown",1
+"Other","2018-07","Female",8
+"Other","2018-07","Male",19
+"Other","2018-07","Unknown",2
+"Other","2018-08","Female",2
+"Other","2018-08","Male",15
+"Other","2018-08","Unknown",3
+"Other","2018-09","Female",6
+"Other","2018-09","Male",15
+"Other","2018-10","Female",7
+"Other","2018-10","Male",22
+"Other","2018-11","Female",8
+"Other","2018-11","Male",17
+"Other","2018-11","Unknown",1
+"Other","2018-12","Female",10
+"Other","2018-12","Male",21
+"Other","2018-12","Unknown",2
+"Other","2018-13","Female",5
+"Other","2018-13","Male",22
+"Other","2018-13","Unknown",2
+"Other","2018-14","Female",6
+"Other","2018-14","Male",25
+"Other","2018-14","Unknown",2
+"Other","2018-15","Female",6
+"Other","2018-15","Male",13
+"Other","2018-16","Female",9
+"Other","2018-16","Male",20
+"Other","2018-16","Unknown",1
+"Other","2018-17","Female",3
+"Other","2018-17","Male",16
+"Other","2018-17","Unknown",2
+"Other","2018-18","Female",6
+"Other","2018-18","Unknown",1
+"Other","2018-18","Male",16
+"Other","2018-18","Unknown",2
+"Other","2018-19","Female",10
+"Other","2018-19","Male",19
+"Other","2018-19","Unknown",3
+"Other","2018-20","Female",11
+"Other","2018-20","Male",26
+"Other","2018-20","Unknown",1
+"Other","2018-21","Female",9
+"Other","2018-21","Male",21
+"Other","2018-21","Unknown",2
+"Other","2018-22","Female",11
+"Other","2018-22","Male",16
+"Other","2018-22","Unknown",2
+"Other","2018-23","Female",5
+"Other","2018-23","Unknown",1
+"Other","2018-23","Male",13
+"Other","2018-23","Unknown",2
+"Other","2018-24","Female",1
+"Other","2018-24","Male",7
+"Other","2018-24","Unknown",2
+"Other","2018-25","Female",3
+"Other","2018-25","Male",14
+"Other","2018-25","Unknown",2
+"Other","2018-26","Female",4
+"Other","2018-26","Male",9
+"Other","2018-26","Unknown",2
+"Other","2018-27","Female",6
+"Other","2018-27","Male",18
+"Other","2018-27","Unknown",2
+"Other","2018-28","Female",4
+"Other","2018-28","Male",15
+"Other","2018-28","Unknown",3
+"Other","2018-29","Female",8
+"Other","2018-29","Male",15
+"Other","2018-29","Unknown",2
+"Other","2018-30","Female",1
+"Other","2018-30","Male",11
+"Other","2018-30","Unknown",2
+"Other","2018-31","Female",7
+"Other","2018-31","Unknown",1
+"Other","2018-31","Male",12
+"Other","2018-31","Unknown",3
+"Other","2018-32","Female",2
+"Other","2018-32","Male",15
+"Other","2018-32","Unknown",1
+"Other","2018-33","Female",5
+"Other","2018-33","Male",8
+"Other","2018-33","Unknown",2
+"Other","2018-34","Female",2
+"Other","2018-34","Male",9
+"Other","2018-35","Female",4
+"Other","2018-35","Male",7
+"Other","2018-35","Unknown",1
+"Other","2018-36","Female",5
+"Other","2018-36","Male",12
+"Other","2018-37","Male",8
+"Other","2018-37","Unknown",1
+"Other","2018-38","Female",7
+"Other","2018-38","Male",15
+"Other","2018-38","Unknown",2
+"Other","2018-39","Female",2
+"Other","2018-39","Male",14
+"Other","2018-39","Unknown",1
+"Other","2018-40","Female",2
+"Other","2018-40","Male",8
+"Other","2018-40","Unknown",4
+"Other","2018-41","Female",6
+"Other","2018-41","Male",8
+"Other","2018-41","Unknown",2
+"Other","2018-42","Female",2
+"Other","2018-42","Male",13
+"Other","2018-43","Female",2
+"Other","2018-43","Male",15
+"Other","2018-43","Unknown",3
+"Other","2018-44","Female",4
+"Other","2018-44","Male",13
+"Other","2018-44","Unknown",1
+"Other","2018-45","Male",12
+"Other","2018-46","Female",4
+"Other","2018-46","Male",12
+"Other","2018-47","Female",3
+"Other","2018-47","Male",6
+"Other","2018-48","Female",5
+"Other","2018-48","Male",8
+"Other","2018-48","Unknown",1
+"Other","2018-49","Male",12
+"Other","2018-49","Unknown",1
+"Other","2018-50","Female",1
+"Other","2018-50","Unknown",1
+"Other","2018-50","Male",10
+"Other","2018-50","Unknown",1
+"Other","2018-51","Female",3
+"Other","2018-51","Male",10
+"Other","2018-51","Unknown",1
+"Other","2018-52","Female",3
+"Other","2018-52","Male",15
+"Other","2018-52","Unknown",2
+"Other","2019-01","Female",3
+"Other","2019-01","Male",12
+"Other","2019-01","Unknown",1
+"Other","2019-02","Female",3
+"Other","2019-02","Male",14
+"Other","2019-03","Female",1
+"Other","2019-03","Male",8
+"Other","2019-03","Unknown",2
+"Other","2019-04","Female",2
+"Other","2019-04","Unknown",1
+"Other","2019-04","Male",8
+"Other","2019-04","Unknown",2
+"Other","2019-05","Female",1
+"Other","2019-05","Male",4
+"Other","2019-05","Unknown",3
+"Other","2019-06","Female",1
+"Other","2019-06","Male",14
+"Other","2019-06","Unknown",3
+"Other","2019-07","Female",2
+"Other","2019-07","Male",11
+"Other","2019-08","Female",4
+"Other","2019-08","Male",6
+"Other","2019-08","Unknown",1
+"Other","2019-09","Female",5
+"Other","2019-09","Male",8
+"Other","2019-09","Unknown",2
+"Other","2019-10","Female",1
+"Other","2019-10","Male",8
+"Other","2019-10","Unknown",1
+"Other","2019-11","Female",3
+"Other","2019-11","Male",11
+"Other","2019-12","Male",11
+"Other","2019-13","Female",5
+"Other","2019-13","Male",12
+"Other","2019-13","Unknown",1
+"Other","2019-14","Female",3
+"Other","2019-14","Male",8
+"Other","2019-14","Unknown",1
+"Other","2019-15","Female",3
+"Other","2019-15","Male",6
+"Other","2019-16","Female",1
+"Other","2019-16","Male",13
+"Other","2019-16","Unknown",3
+"Other","2019-17","Female",3
+"Other","2019-17","Male",5
+"Other","2019-17","Unknown",2
+"Other","2019-18","Female",5
+"Other","2019-18","Male",5
+"Other","2019-19","Female",4
+"Other","2019-19","Male",11
+"Other","2019-20","Male",7
+"Other","2019-21","Female",2
+"Other","2019-21","Male",10
+"Other","2019-21","Unknown",1
+"Other","2019-22","Female",5
+"Other","2019-22","Male",12
+"Other","2019-22","Unknown",4
+"Other","2019-23","Female",1
+"Other","2019-23","Male",16
+"Other","2019-24","Female",2
+"Other","2019-24","Male",8
+"Other","2019-24","Unknown",2
+"Other","2019-25","Female",4
+"Other","2019-25","Male",15
+"Other","2019-25","Unknown",3
+"Other","2019-26","Female",1
+"Other","2019-26","Male",4
+"Other","2019-26","Unknown",2
+"Other","2019-27","Female",2
+"Other","2019-27","Unknown",1
+"Other","2019-27","Male",16
+"Other","2019-27","Unknown",4
+"Other","2019-28","Female",4
+"Other","2019-28","Unknown",1
+"Other","2019-28","Male",15
+"Other","2019-28","Unknown",2
+"Other","2019-29","Female",3
+"Other","2019-29","Male",12
+"Other","2019-30","Female",5
+"Other","2019-30","Male",5
+"Other","2019-30","Unknown",2
+"Other","2019-31","Female",2
+"Other","2019-31","Male",9
+"Other","2019-31","Unknown",2
+"Other","2019-32","Female",2
+"Other","2019-32","Male",9
+"Other","2019-32","Unknown",2
+"Other","2019-33","Female",6
+"Other","2019-33","Male",6
+"Other","2019-33","Unknown",3
+"Other","2019-34","Female",2
+"Other","2019-34","Male",10
+"Other","2019-35","Female",6
+"Other","2019-35","Male",10
+"Other","2019-35","Unknown",2
+"Other","2019-36","Female",6
+"Other","2019-36","Male",12
+"Other","2019-37","Female",4
+"Other","2019-37","Male",13
+"Other","2019-37","Unknown",1
+"Other","2019-38","Female",3
+"Other","2019-38","Male",11
+"Other","2019-38","Unknown",4
+"Other","2019-39","Female",5
+"Other","2019-39","Male",9
+"Other","2019-39","Unknown",3
+"Other","2019-40","Female",2
+"Other","2019-40","Male",8
+"Other","2019-40","Unknown",1
+"Other","2019-41","Female",2
+"Other","2019-41","Male",8
+"Other","2019-42","Female",2
+"Other","2019-42","Male",8
+"Other","2019-42","Unknown",2
+"Other","2019-43","Female",2
+"Other","2019-43","Male",9
+"Other","2019-43","Unknown",1
+"Other","2019-44","Female",5
+"Other","2019-44","Male",3
+"Other","2019-44","Unknown",1
+"Other","2019-45","Female",3
+"Other","2019-45","Unknown",1
+"Other","2019-45","Male",14
+"Other","2019-46","Female",6
+"Other","2019-46","Male",8
+"Other","2019-47","Female",2
+"Other","2019-47","Male",9
+"Other","2019-47","Unknown",1
+"Other","2019-48","Female",1
+"Other","2019-48","Male",6
+"Other","2019-48","Unknown",1
+"Other","2019-49","Female",4
+"Other","2019-49","Male",9
+"Other","2019-49","Unknown",1
+"Other","2019-50","Female",1
+"Other","2019-50","Male",3
+"Other","2019-50","Unknown",1
+"Other","2019-51","Female",1
+"Other","2019-51","Male",5
+"Other","2019-51","Unknown",1
+"Other","2019-52","Female",3
+"Other","2019-52","Male",8
+"Other","2019-52","Unknown",1
+"Other","2020-01","Female",2
+"Other","2020-01","Male",5
+"Other","2020-01","Unknown",1
+"Other","2020-02","Female",4
+"Other","2020-02","Male",10
+"Other","2020-03","Female",1
+"Other","2020-03","Male",4
+"Other","2020-03","Unknown",3
+"Other","2020-04","Female",1
+"Other","2020-04","Unknown",1
+"Other","2020-04","Male",7
+"Other","2020-04","Unknown",1
+"Other","2020-05","Female",3
+"Other","2020-05","Male",9
+"Other","2020-05","Unknown",2
+"Other","2020-06","Female",3
+"Other","2020-06","Male",3
+"Other","2020-06","Unknown",3
+"Other","2020-07","Female",2
+"Other","2020-07","Male",4
+"Other","2020-07","Unknown",2
+"Other","2020-08","Female",1
+"Other","2020-08","Male",7
+"Other","2020-08","Unknown",2
+"Other","2020-09","Female",1
+"Other","2020-09","Male",8
+"Other","2020-09","Unknown",1
+"Other","2020-10","Female",3
+"Other","2020-10","Male",11
+"Other","2020-10","Unknown",2
+"Other","2020-11","Female",2
+"Other","2020-11","Male",8
+"Other","2020-12","Unknown",1
+"Other","2020-12","Male",11
+"Other","2020-12","Unknown",2
+"Other","2020-13","Female",2
+"Other","2020-13","Unknown",1
+"Other","2020-13","Male",8
+"Other","2020-13","Unknown",2
+"Other","2020-14","Female",5
+"Other","2020-14","Male",7
+"Other","2020-14","Unknown",3
+"Other","2020-15","Female",1
+"Other","2020-15","Male",4
+"Other","2020-15","Unknown",1
+"Other","2020-16","Female",2
+"Other","2020-16","Unknown",1
+"Other","2020-16","Male",5
+"Other","2020-16","Unknown",3
+"Other","2020-17","Female",3
+"Other","2020-17","Male",7
+"Other","2020-17","Unknown",1
+"Other","2020-18","Male",9
+"Other","2020-18","Unknown",1
+"Other","2020-19","Male",9
+"Other","2020-19","Unknown",1
+"Other","2020-20","Female",2
+"Other","2020-20","Male",7
+"Other","2020-20","Unknown",2
+"Other","2020-21","Female",1
+"Other","2020-21","Male",5
+"Other","2020-22","Female",1
+"Other","2020-22","Male",5
+"Other","2020-23","Female",1
+"Other","2020-23","Male",6
+"Other","2020-24","Unknown",1
+"Unknown","2016-44","Female",9
+"Unknown","2016-44","Male",38
+"Unknown","2016-44","Unknown",119
+"Unknown","2016-45","Female",11
+"Unknown","2016-45","Male",53
+"Unknown","2016-45","Unknown",112
+"Unknown","2016-46","Female",6
+"Unknown","2016-46","Male",39
+"Unknown","2016-46","Unknown",127
+"Unknown","2016-47","Female",5
+"Unknown","2016-47","Unknown",1
+"Unknown","2016-47","Male",36
+"Unknown","2016-47","Unknown",106
+"Unknown","2016-48","Female",8
+"Unknown","2016-48","Unknown",2
+"Unknown","2016-48","Male",35
+"Unknown","2016-48","Unknown",104
+"Unknown","2016-49","Female",9
+"Unknown","2016-49","Unknown",1
+"Unknown","2016-49","Male",28
+"Unknown","2016-49","Unknown",91
+"Unknown","2016-50","Female",12
+"Unknown","2016-50","Male",19
+"Unknown","2016-50","Unknown",94
+"Unknown","2016-51","Female",7
+"Unknown","2016-51","Male",42
+"Unknown","2016-51","Unknown",115
+"Unknown","2016-52","Female",6
+"Unknown","2016-52","Male",37
+"Unknown","2016-52","Unknown",101
+"Unknown","2017-01","Female",4
+"Unknown","2017-01","Male",30
+"Unknown","2017-01","Unknown",101
+"Unknown","2017-02","Female",12
+"Unknown","2017-02","Male",24
+"Unknown","2017-02","Unknown",119
+"Unknown","2017-03","Female",8
+"Unknown","2017-03","Male",51
+"Unknown","2017-03","Unknown",130
+"Unknown","2017-04","Female",9
+"Unknown","2017-04","Male",29
+"Unknown","2017-04","Unknown",107
+"Unknown","2017-05","Female",5
+"Unknown","2017-05","Unknown",1
+"Unknown","2017-05","Male",33
+"Unknown","2017-05","Unknown",127
+"Unknown","2017-06","Female",9
+"Unknown","2017-06","Male",41
+"Unknown","2017-06","Unknown",102
+"Unknown","2017-07","Female",10
+"Unknown","2017-07","Male",39
+"Unknown","2017-07","Unknown",132
+"Unknown","2017-08","Female",12
+"Unknown","2017-08","Male",34
+"Unknown","2017-08","Unknown",149
+"Unknown","2017-09","Female",7
+"Unknown","2017-09","Unknown",1
+"Unknown","2017-09","Male",33
+"Unknown","2017-09","Unknown",118
+"Unknown","2017-10","Female",12
+"Unknown","2017-10","Male",36
+"Unknown","2017-10","Unknown",114
+"Unknown","2017-11","Female",8
+"Unknown","2017-11","Male",36
+"Unknown","2017-11","Unknown",128
+"Unknown","2017-12","Female",4
+"Unknown","2017-12","Male",43
+"Unknown","2017-12","Unknown",118
+"Unknown","2017-13","Female",7
+"Unknown","2017-13","Male",55
+"Unknown","2017-13","Unknown",135
+"Unknown","2017-14","Female",9
+"Unknown","2017-14","Unknown",1
+"Unknown","2017-14","Male",52
+"Unknown","2017-14","Unknown",143
+"Unknown","2017-15","Female",7
+"Unknown","2017-15","Male",57
+"Unknown","2017-15","Unknown",133
+"Unknown","2017-16","Female",11
+"Unknown","2017-16","Unknown",2
+"Unknown","2017-16","Male",46
+"Unknown","2017-16","Unknown",125
+"Unknown","2017-17","Female",13
+"Unknown","2017-17","Male",30
+"Unknown","2017-17","Unknown",112
+"Unknown","2017-18","Female",8
+"Unknown","2017-18","Male",56
+"Unknown","2017-18","Unknown",136
+"Unknown","2017-19","Female",9
+"Unknown","2017-19","Unknown",1
+"Unknown","2017-19","Male",43
+"Unknown","2017-19","Unknown",125
+"Unknown","2017-20","Female",13
+"Unknown","2017-20","Male",52
+"Unknown","2017-20","Unknown",131
+"Unknown","2017-21","Female",13
+"Unknown","2017-21","Unknown",1
+"Unknown","2017-21","Male",41
+"Unknown","2017-21","Unknown",169
+"Unknown","2017-22","Female",12
+"Unknown","2017-22","Male",58
+"Unknown","2017-22","Unknown",117
+"Unknown","2017-23","Female",9
+"Unknown","2017-23","Male",54
+"Unknown","2017-23","Unknown",137
+"Unknown","2017-24","Female",21
+"Unknown","2017-24","Male",56
+"Unknown","2017-24","Unknown",120
+"Unknown","2017-25","Female",13
+"Unknown","2017-25","Male",41
+"Unknown","2017-25","Unknown",140
+"Unknown","2017-26","Female",11
+"Unknown","2017-26","Unknown",1
+"Unknown","2017-26","Male",56
+"Unknown","2017-26","Unknown",98
+"Unknown","2017-27","Female",11
+"Unknown","2017-27","Unknown",1
+"Unknown","2017-27","Male",51
+"Unknown","2017-27","Unknown",110
+"Unknown","2017-28","Female",13
+"Unknown","2017-28","Male",55
+"Unknown","2017-28","Unknown",119
+"Unknown","2017-29","Female",16
+"Unknown","2017-29","Male",58
+"Unknown","2017-29","Unknown",127
+"Unknown","2017-30","Female",21
+"Unknown","2017-30","Unknown",1
+"Unknown","2017-30","Male",63
+"Unknown","2017-30","Unknown",128
+"Unknown","2017-31","Female",6
+"Unknown","2017-31","Unknown",1
+"Unknown","2017-31","Male",69
+"Unknown","2017-31","Unknown",125
+"Unknown","2017-32","Female",16
+"Unknown","2017-32","Male",58
+"Unknown","2017-32","Unknown",114
+"Unknown","2017-33","Female",14
+"Unknown","2017-33","Male",60
+"Unknown","2017-33","Unknown",119
+"Unknown","2017-34","Female",19
+"Unknown","2017-34","Unknown",1
+"Unknown","2017-34","Male",63
+"Unknown","2017-34","Unknown",147
+"Unknown","2017-35","Female",12
+"Unknown","2017-35","Male",69
+"Unknown","2017-35","Unknown",110
+"Unknown","2017-36","Female",6
+"Unknown","2017-36","Male",65
+"Unknown","2017-36","Unknown",122
+"Unknown","2017-37","Female",13
+"Unknown","2017-37","Male",69
+"Unknown","2017-37","Unknown",168
+"Unknown","2017-38","Female",7
+"Unknown","2017-38","Male",79
+"Unknown","2017-38","Unknown",141
+"Unknown","2017-39","Female",13
+"Unknown","2017-39","Male",49
+"Unknown","2017-39","Unknown",138
+"Unknown","2017-40","Female",10
+"Unknown","2017-40","Male",62
+"Unknown","2017-40","Unknown",130
+"Unknown","2017-41","Female",11
+"Unknown","2017-41","Male",76
+"Unknown","2017-41","Unknown",121
+"Unknown","2017-42","Female",15
+"Unknown","2017-42","Male",77
+"Unknown","2017-42","Unknown",134
+"Unknown","2017-43","Female",9
+"Unknown","2017-43","Male",61
+"Unknown","2017-43","Unknown",113
+"Unknown","2017-44","Female",6
+"Unknown","2017-44","Male",53
+"Unknown","2017-44","Unknown",115
+"Unknown","2017-45","Female",6
+"Unknown","2017-45","Male",66
+"Unknown","2017-45","Unknown",99
+"Unknown","2017-46","Female",8
+"Unknown","2017-46","Male",64
+"Unknown","2017-46","Unknown",112
+"Unknown","2017-47","Female",6
+"Unknown","2017-47","Unknown",1
+"Unknown","2017-47","Male",44
+"Unknown","2017-47","Unknown",99
+"Unknown","2017-48","Female",10
+"Unknown","2017-48","Unknown",1
+"Unknown","2017-48","Male",61
+"Unknown","2017-48","Unknown",144
+"Unknown","2017-49","Female",6
+"Unknown","2017-49","Male",47
+"Unknown","2017-49","Unknown",112
+"Unknown","2017-50","Female",7
+"Unknown","2017-50","Unknown",1
+"Unknown","2017-50","Male",42
+"Unknown","2017-50","Unknown",119
+"Unknown","2017-51","Female",13
+"Unknown","2017-51","Unknown",1
+"Unknown","2017-51","Male",43
+"Unknown","2017-51","Unknown",105
+"Unknown","2017-52","Female",3
+"Unknown","2017-52","Male",24
+"Unknown","2017-52","Unknown",105
+"Unknown","2018-01","Female",8
+"Unknown","2018-01","Male",29
+"Unknown","2018-01","Unknown",120
+"Unknown","2018-02","Female",6
+"Unknown","2018-02","Unknown",1
+"Unknown","2018-02","Male",35
+"Unknown","2018-02","Unknown",92
+"Unknown","2018-03","Female",8
+"Unknown","2018-03","Unknown",1
+"Unknown","2018-03","Male",29
+"Unknown","2018-03","Unknown",102
+"Unknown","2018-04","Female",5
+"Unknown","2018-04","Male",33
+"Unknown","2018-04","Unknown",96
+"Unknown","2018-05","Female",9
+"Unknown","2018-05","Male",46
+"Unknown","2018-05","Unknown",89
+"Unknown","2018-06","Female",6
+"Unknown","2018-06","Unknown",2
+"Unknown","2018-06","Male",37
+"Unknown","2018-06","Unknown",119
+"Unknown","2018-07","Female",13
+"Unknown","2018-07","Male",46
+"Unknown","2018-07","Unknown",102
+"Unknown","2018-08","Female",3
+"Unknown","2018-08","Male",35
+"Unknown","2018-08","Unknown",97
+"Unknown","2018-09","Female",14
+"Unknown","2018-09","Male",54
+"Unknown","2018-09","Unknown",110
+"Unknown","2018-10","Female",11
+"Unknown","2018-10","Unknown",1
+"Unknown","2018-10","Male",44
+"Unknown","2018-10","Unknown",103
+"Unknown","2018-11","Female",5
+"Unknown","2018-11","Male",37
+"Unknown","2018-11","Unknown",97
+"Unknown","2018-12","Female",12
+"Unknown","2018-12","Unknown",2
+"Unknown","2018-12","Male",44
+"Unknown","2018-12","Unknown",133
+"Unknown","2018-13","Female",2
+"Unknown","2018-13","Unknown",1
+"Unknown","2018-13","Male",48
+"Unknown","2018-13","Unknown",118
+"Unknown","2018-14","Female",5
+"Unknown","2018-14","Unknown",1
+"Unknown","2018-14","Male",49
+"Unknown","2018-14","Unknown",83
+"Unknown","2018-15","Female",9
+"Unknown","2018-15","Male",38
+"Unknown","2018-15","Unknown",84
+"Unknown","2018-16","Female",14
+"Unknown","2018-16","Male",46
+"Unknown","2018-16","Unknown",90
+"Unknown","2018-17","Female",14
+"Unknown","2018-17","Male",56
+"Unknown","2018-17","Unknown",80
+"Unknown","2018-18","Female",16
+"Unknown","2018-18","Male",70
+"Unknown","2018-18","Unknown",136
+"Unknown","2018-19","Female",14
+"Unknown","2018-19","Unknown",2
+"Unknown","2018-19","Male",66
+"Unknown","2018-19","Unknown",101
+"Unknown","2018-20","Female",11
+"Unknown","2018-20","Unknown",1
+"Unknown","2018-20","Male",58
+"Unknown","2018-20","Unknown",116
+"Unknown","2018-21","Female",11
+"Unknown","2018-21","Unknown",2
+"Unknown","2018-21","Male",66
+"Unknown","2018-21","Unknown",124
+"Unknown","2018-22","Female",15
+"Unknown","2018-22","Unknown",1
+"Unknown","2018-22","Male",59
+"Unknown","2018-22","Unknown",99
+"Unknown","2018-23","Female",15
+"Unknown","2018-23","Unknown",1
+"Unknown","2018-23","Male",59
+"Unknown","2018-23","Unknown",102
+"Unknown","2018-24","Female",10
+"Unknown","2018-24","Male",74
+"Unknown","2018-24","Unknown",101
+"Unknown","2018-25","Female",6
+"Unknown","2018-25","Male",65
+"Unknown","2018-25","Unknown",108
+"Unknown","2018-26","Female",5
+"Unknown","2018-26","Male",61
+"Unknown","2018-26","Unknown",110
+"Unknown","2018-27","Female",10
+"Unknown","2018-27","Unknown",1
+"Unknown","2018-27","Male",69
+"Unknown","2018-27","Unknown",117
+"Unknown","2018-28","Female",13
+"Unknown","2018-28","Male",53
+"Unknown","2018-28","Unknown",130
+"Unknown","2018-29","Female",10
+"Unknown","2018-29","Male",65
+"Unknown","2018-29","Unknown",112
+"Unknown","2018-30","Female",12
+"Unknown","2018-30","Unknown",1
+"Unknown","2018-30","Male",58
+"Unknown","2018-30","Unknown",118
+"Unknown","2018-31","Female",8
+"Unknown","2018-31","Unknown",1
+"Unknown","2018-31","Male",71
+"Unknown","2018-31","Unknown",129
+"Unknown","2018-32","Female",11
+"Unknown","2018-32","Unknown",1
+"Unknown","2018-32","Male",73
+"Unknown","2018-32","Unknown",111
+"Unknown","2018-33","Female",12
+"Unknown","2018-33","Male",75
+"Unknown","2018-33","Unknown",127
+"Unknown","2018-34","Female",15
+"Unknown","2018-34","Male",64
+"Unknown","2018-34","Unknown",102
+"Unknown","2018-35","Female",14
+"Unknown","2018-35","Male",48
+"Unknown","2018-35","Unknown",130
+"Unknown","2018-36","Female",14
+"Unknown","2018-36","Male",72
+"Unknown","2018-36","Unknown",109
+"Unknown","2018-37","Female",15
+"Unknown","2018-37","Male",80
+"Unknown","2018-37","Unknown",114
+"Unknown","2018-38","Female",9
+"Unknown","2018-38","Male",64
+"Unknown","2018-38","Unknown",115
+"Unknown","2018-39","Female",11
+"Unknown","2018-39","Unknown",1
+"Unknown","2018-39","Male",68
+"Unknown","2018-39","Unknown",103
+"Unknown","2018-40","Female",9
+"Unknown","2018-40","Unknown",1
+"Unknown","2018-40","Male",62
+"Unknown","2018-40","Unknown",125
+"Unknown","2018-41","Female",9
+"Unknown","2018-41","Male",60
+"Unknown","2018-41","Unknown",121
+"Unknown","2018-42","Female",6
+"Unknown","2018-42","Male",53
+"Unknown","2018-42","Unknown",128
+"Unknown","2018-43","Female",5
+"Unknown","2018-43","Unknown",1
+"Unknown","2018-43","Male",68
+"Unknown","2018-43","Unknown",125
+"Unknown","2018-44","Female",5
+"Unknown","2018-44","Male",57
+"Unknown","2018-44","Unknown",140
+"Unknown","2018-45","Female",8
+"Unknown","2018-45","Male",45
+"Unknown","2018-45","Unknown",112
+"Unknown","2018-46","Female",8
+"Unknown","2018-46","Male",52
+"Unknown","2018-46","Unknown",115
+"Unknown","2018-47","Female",9
+"Unknown","2018-47","Male",48
+"Unknown","2018-47","Unknown",100
+"Unknown","2018-48","Female",7
+"Unknown","2018-48","Male",45
+"Unknown","2018-48","Unknown",102
+"Unknown","2018-49","Female",8
+"Unknown","2018-49","Male",46
+"Unknown","2018-49","Unknown",100
+"Unknown","2018-50","Female",16
+"Unknown","2018-50","Male",63
+"Unknown","2018-50","Unknown",132
+"Unknown","2018-51","Female",14
+"Unknown","2018-51","Male",66
+"Unknown","2018-51","Unknown",97
+"Unknown","2018-52","Female",3
+"Unknown","2018-52","Male",32
+"Unknown","2018-52","Unknown",73
+"Unknown","2019-01","Female",8
+"Unknown","2019-01","Male",49
+"Unknown","2019-01","Unknown",104
+"Unknown","2019-02","Female",9
+"Unknown","2019-02","Male",41
+"Unknown","2019-02","Unknown",102
+"Unknown","2019-03","Female",6
+"Unknown","2019-03","Male",42
+"Unknown","2019-03","Unknown",97
+"Unknown","2019-04","Female",10
+"Unknown","2019-04","Male",21
+"Unknown","2019-04","Unknown",79
+"Unknown","2019-05","Female",3
+"Unknown","2019-05","Male",25
+"Unknown","2019-05","Unknown",64
+"Unknown","2019-06","Female",4
+"Unknown","2019-06","Male",26
+"Unknown","2019-06","Unknown",79
+"Unknown","2019-07","Female",5
+"Unknown","2019-07","Male",26
+"Unknown","2019-07","Unknown",60
+"Unknown","2019-08","Female",7
+"Unknown","2019-08","Male",31
+"Unknown","2019-08","Unknown",81
+"Unknown","2019-09","Female",8
+"Unknown","2019-09","Male",33
+"Unknown","2019-09","Unknown",67
+"Unknown","2019-10","Female",11
+"Unknown","2019-10","Male",28
+"Unknown","2019-10","Unknown",68
+"Unknown","2019-11","Female",5
+"Unknown","2019-11","Unknown",1
+"Unknown","2019-11","Male",43
+"Unknown","2019-11","Unknown",96
+"Unknown","2019-12","Female",5
+"Unknown","2019-12","Male",46
+"Unknown","2019-12","Unknown",116
+"Unknown","2019-13","Female",8
+"Unknown","2019-13","Male",46
+"Unknown","2019-13","Unknown",126
+"Unknown","2019-14","Female",9
+"Unknown","2019-14","Male",61
+"Unknown","2019-14","Unknown",107
+"Unknown","2019-15","Female",16
+"Unknown","2019-15","Male",41
+"Unknown","2019-15","Unknown",113
+"Unknown","2019-16","Female",11
+"Unknown","2019-16","Male",48
+"Unknown","2019-16","Unknown",107
+"Unknown","2019-17","Female",11
+"Unknown","2019-17","Male",59
+"Unknown","2019-17","Unknown",119
+"Unknown","2019-18","Female",3
+"Unknown","2019-18","Unknown",1
+"Unknown","2019-18","Male",73
+"Unknown","2019-18","Unknown",101
+"Unknown","2019-19","Female",8
+"Unknown","2019-19","Male",68
+"Unknown","2019-19","Unknown",139
+"Unknown","2019-20","Female",11
+"Unknown","2019-20","Male",71
+"Unknown","2019-20","Unknown",157
+"Unknown","2019-21","Female",16
+"Unknown","2019-21","Male",73
+"Unknown","2019-21","Unknown",155
+"Unknown","2019-22","Female",9
+"Unknown","2019-22","Unknown",1
+"Unknown","2019-22","Male",71
+"Unknown","2019-22","Unknown",126
+"Unknown","2019-23","Female",19
+"Unknown","2019-23","Male",79
+"Unknown","2019-23","Unknown",147
+"Unknown","2019-24","Female",10
+"Unknown","2019-24","Male",60
+"Unknown","2019-24","Unknown",149
+"Unknown","2019-25","Female",7
+"Unknown","2019-25","Unknown",1
+"Unknown","2019-25","Male",51
+"Unknown","2019-25","Unknown",150
+"Unknown","2019-26","Female",11
+"Unknown","2019-26","Male",64
+"Unknown","2019-26","Unknown",141
+"Unknown","2019-27","Female",12
+"Unknown","2019-27","Male",66
+"Unknown","2019-27","Unknown",130
+"Unknown","2019-28","Female",17
+"Unknown","2019-28","Unknown",1
+"Unknown","2019-28","Male",60
+"Unknown","2019-28","Unknown",138
+"Unknown","2019-29","Female",17
+"Unknown","2019-29","Male",86
+"Unknown","2019-29","Unknown",134
+"Unknown","2019-30","Female",15
+"Unknown","2019-30","Unknown",1
+"Unknown","2019-30","Male",72
+"Unknown","2019-30","Unknown",116
+"Unknown","2019-31","Female",18
+"Unknown","2019-31","Male",65
+"Unknown","2019-31","Unknown",107
+"Unknown","2019-32","Female",12
+"Unknown","2019-32","Male",56
+"Unknown","2019-32","Unknown",156
+"Unknown","2019-33","Female",12
+"Unknown","2019-33","Male",62
+"Unknown","2019-33","Unknown",122
+"Unknown","2019-34","Female",15
+"Unknown","2019-34","Male",62
+"Unknown","2019-34","Unknown",148
+"Unknown","2019-35","Female",19
+"Unknown","2019-35","Male",81
+"Unknown","2019-35","Unknown",135
+"Unknown","2019-36","Female",13
+"Unknown","2019-36","Male",75
+"Unknown","2019-36","Unknown",129
+"Unknown","2019-37","Female",13
+"Unknown","2019-37","Unknown",1
+"Unknown","2019-37","Male",72
+"Unknown","2019-37","Unknown",115
+"Unknown","2019-38","Female",11
+"Unknown","2019-38","Male",74
+"Unknown","2019-38","Unknown",164
+"Unknown","2019-39","Female",10
+"Unknown","2019-39","Unknown",1
+"Unknown","2019-39","Male",67
+"Unknown","2019-39","Unknown",140
+"Unknown","2019-40","Female",11
+"Unknown","2019-40","Male",59
+"Unknown","2019-40","Unknown",117
+"Unknown","2019-41","Female",8
+"Unknown","2019-41","Unknown",2
+"Unknown","2019-41","Male",46
+"Unknown","2019-41","Unknown",120
+"Unknown","2019-42","Female",9
+"Unknown","2019-42","Unknown",1
+"Unknown","2019-42","Male",67
+"Unknown","2019-42","Unknown",117
+"Unknown","2019-43","Female",4
+"Unknown","2019-43","Unknown",1
+"Unknown","2019-43","Male",48
+"Unknown","2019-43","Unknown",111
+"Unknown","2019-44","Female",6
+"Unknown","2019-44","Unknown",1
+"Unknown","2019-44","Male",50
+"Unknown","2019-44","Unknown",112
+"Unknown","2019-45","Female",6
+"Unknown","2019-45","Male",51
+"Unknown","2019-45","Unknown",90
+"Unknown","2019-46","Female",11
+"Unknown","2019-46","Male",41
+"Unknown","2019-46","Unknown",91
+"Unknown","2019-47","Female",10
+"Unknown","2019-47","Male",56
+"Unknown","2019-47","Unknown",124
+"Unknown","2019-48","Female",4
+"Unknown","2019-48","Male",36
+"Unknown","2019-48","Unknown",100
+"Unknown","2019-49","Female",5
+"Unknown","2019-49","Male",43
+"Unknown","2019-49","Unknown",106
+"Unknown","2019-50","Female",6
+"Unknown","2019-50","Male",31
+"Unknown","2019-50","Unknown",76
+"Unknown","2019-51","Female",3
+"Unknown","2019-51","Unknown",1
+"Unknown","2019-51","Male",45
+"Unknown","2019-51","Unknown",112
+"Unknown","2019-52","Female",5
+"Unknown","2019-52","Male",31
+"Unknown","2019-52","Unknown",99
+"Unknown","2020-01","Female",8
+"Unknown","2020-01","Male",29
+"Unknown","2020-01","Unknown",63
+"Unknown","2020-02","Female",9
+"Unknown","2020-02","Unknown",1
+"Unknown","2020-02","Male",50
+"Unknown","2020-02","Unknown",96
+"Unknown","2020-03","Female",8
+"Unknown","2020-03","Male",39
+"Unknown","2020-03","Unknown",106
+"Unknown","2020-04","Female",7
+"Unknown","2020-04","Male",38
+"Unknown","2020-04","Unknown",125
+"Unknown","2020-05","Female",14
+"Unknown","2020-05","Male",43
+"Unknown","2020-05","Unknown",109
+"Unknown","2020-06","Female",9
+"Unknown","2020-06","Male",52
+"Unknown","2020-06","Unknown",106
+"Unknown","2020-07","Female",6
+"Unknown","2020-07","Male",42
+"Unknown","2020-07","Unknown",99
+"Unknown","2020-08","Female",10
+"Unknown","2020-08","Male",41
+"Unknown","2020-08","Unknown",119
+"Unknown","2020-09","Female",8
+"Unknown","2020-09","Male",51
+"Unknown","2020-09","Unknown",95
+"Unknown","2020-10","Female",8
+"Unknown","2020-10","Male",53
+"Unknown","2020-10","Unknown",131
+"Unknown","2020-11","Female",12
+"Unknown","2020-11","Male",70
+"Unknown","2020-11","Unknown",128
+"Unknown","2020-12","Female",13
+"Unknown","2020-12","Unknown",1
+"Unknown","2020-12","Male",61
+"Unknown","2020-12","Unknown",142
+"Unknown","2020-13","Female",6
+"Unknown","2020-13","Male",58
+"Unknown","2020-13","Unknown",137
+"Unknown","2020-14","Female",12
+"Unknown","2020-14","Male",42
+"Unknown","2020-14","Unknown",132
+"Unknown","2020-15","Female",6
+"Unknown","2020-15","Male",57
+"Unknown","2020-15","Unknown",146
+"Unknown","2020-16","Female",17
+"Unknown","2020-16","Male",51
+"Unknown","2020-16","Unknown",133
+"Unknown","2020-17","Female",7
+"Unknown","2020-17","Unknown",1
+"Unknown","2020-17","Male",63
+"Unknown","2020-17","Unknown",109
+"Unknown","2020-18","Female",13
+"Unknown","2020-18","Unknown",1
+"Unknown","2020-18","Male",57
+"Unknown","2020-18","Unknown",129
+"Unknown","2020-19","Female",12
+"Unknown","2020-19","Male",50
+"Unknown","2020-19","Unknown",141
+"Unknown","2020-20","Female",10
+"Unknown","2020-20","Unknown",1
+"Unknown","2020-20","Male",45
+"Unknown","2020-20","Unknown",117
+"Unknown","2020-21","Female",5
+"Unknown","2020-21","Male",59
+"Unknown","2020-21","Unknown",140
+"Unknown","2020-22","Female",7
+"Unknown","2020-22","Male",38
+"Unknown","2020-22","Unknown",179
+"Unknown","2020-23","Female",10
+"Unknown","2020-23","Male",93
+"Unknown","2020-23","Unknown",376
+"Unknown","2020-24","Female",1
+"Unknown","2020-24","Male",10
+"Unknown","2020-24","Unknown",52
+"White","2016-44","Female",35
+"White","2016-44","Male",102
+"White","2016-45","Female",52
+"White","2016-45","Unknown",1
+"White","2016-45","Male",122
+"White","2016-46","Female",55
+"White","2016-46","Male",129
+"White","2016-47","Female",70
+"White","2016-47","Male",124
+"White","2016-47","Unknown",1
+"White","2016-48","Female",96
+"White","2016-48","Male",122
+"White","2016-48","Unknown",1
+"White","2016-49","Female",50
+"White","2016-49","Unknown",1
+"White","2016-49","Male",83
+"White","2016-49","Unknown",1
+"White","2016-50","Female",30
+"White","2016-50","Male",94
+"White","2016-50","Unknown",1
+"White","2016-51","Female",49
+"White","2016-51","Unknown",1
+"White","2016-51","Male",107
+"White","2016-51","Unknown",2
+"White","2016-52","Female",53
+"White","2016-52","Male",125
+"White","2017-01","Female",50
+"White","2017-01","Male",120
+"White","2017-02","Female",91
+"White","2017-02","Male",139
+"White","2017-02","Unknown",1
+"White","2017-03","Female",68
+"White","2017-03","Male",140
+"White","2017-04","Female",99
+"White","2017-04","Male",196
+"White","2017-04","Unknown",1
+"White","2017-05","Female",77
+"White","2017-05","Unknown",1
+"White","2017-05","Male",151
+"White","2017-06","Female",123
+"White","2017-06","Male",157
+"White","2017-07","Female",124
+"White","2017-07","Male",190
+"White","2017-07","Unknown",1
+"White","2017-08","Female",109
+"White","2017-08","Male",188
+"White","2017-08","Unknown",1
+"White","2017-09","Female",114
+"White","2017-09","Male",206
+"White","2017-10","Female",89
+"White","2017-10","Male",175
+"White","2017-10","Unknown",1
+"White","2017-11","Female",120
+"White","2017-11","Unknown",1
+"White","2017-11","Male",200
+"White","2017-12","Female",86
+"White","2017-12","Male",171
+"White","2017-12","Unknown",1
+"White","2017-13","Female",128
+"White","2017-13","Male",250
+"White","2017-14","Female",116
+"White","2017-14","Male",253
+"White","2017-15","Female",101
+"White","2017-15","Male",183
+"White","2017-15","Unknown",2
+"White","2017-16","Female",117
+"White","2017-16","Unknown",1
+"White","2017-16","Male",246
+"White","2017-16","Unknown",1
+"White","2017-17","Female",96
+"White","2017-17","Male",180
+"White","2017-18","Female",84
+"White","2017-18","Male",197
+"White","2017-19","Female",93
+"White","2017-19","Male",178
+"White","2017-20","Female",66
+"White","2017-20","Unknown",1
+"White","2017-20","Male",171
+"White","2017-21","Female",88
+"White","2017-21","Male",196
+"White","2017-22","Female",63
+"White","2017-22","Male",138
+"White","2017-22","Unknown",1
+"White","2017-23","Female",78
+"White","2017-23","Male",170
+"White","2017-23","Unknown",1
+"White","2017-24","Female",64
+"White","2017-24","Male",135
+"White","2017-24","Unknown",1
+"White","2017-25","Female",66
+"White","2017-25","Male",131
+"White","2017-26","Female",84
+"White","2017-26","Male",150
+"White","2017-26","Unknown",1
+"White","2017-27","Female",65
+"White","2017-27","Male",141
+"White","2017-28","Female",88
+"White","2017-28","Male",159
+"White","2017-28","Unknown",1
+"White","2017-29","Female",99
+"White","2017-29","Unknown",1
+"White","2017-29","Male",195
+"White","2017-29","Unknown",2
+"White","2017-30","Female",61
+"White","2017-30","Unknown",1
+"White","2017-30","Male",139
+"White","2017-31","Female",57
+"White","2017-31","Male",126
+"White","2017-32","Female",57
+"White","2017-32","Male",126
+"White","2017-33","Female",61
+"White","2017-33","Male",107
+"White","2017-34","Female",77
+"White","2017-34","Male",137
+"White","2017-35","Female",73
+"White","2017-35","Male",125
+"White","2017-36","Female",65
+"White","2017-36","Male",129
+"White","2017-37","Female",73
+"White","2017-37","Male",98
+"White","2017-38","Female",50
+"White","2017-38","Unknown",1
+"White","2017-38","Male",116
+"White","2017-38","Unknown",1
+"White","2017-39","Female",55
+"White","2017-39","Unknown",1
+"White","2017-39","Male",139
+"White","2017-39","Unknown",1
+"White","2017-40","Female",66
+"White","2017-40","Male",129
+"White","2017-41","Female",87
+"White","2017-41","Male",116
+"White","2017-42","Female",66
+"White","2017-42","Male",98
+"White","2017-43","Female",70
+"White","2017-43","Unknown",1
+"White","2017-43","Male",125
+"White","2017-44","Female",62
+"White","2017-44","Unknown",2
+"White","2017-44","Male",103
+"White","2017-45","Female",72
+"White","2017-45","Male",110
+"White","2017-45","Unknown",1
+"White","2017-46","Female",46
+"White","2017-46","Unknown",1
+"White","2017-46","Male",120
+"White","2017-47","Female",78
+"White","2017-47","Male",136
+"White","2017-48","Female",53
+"White","2017-48","Male",133
+"White","2017-49","Female",56
+"White","2017-49","Male",90
+"White","2017-50","Female",63
+"White","2017-50","Male",137
+"White","2017-51","Female",70
+"White","2017-51","Male",100
+"White","2017-51","Unknown",1
+"White","2017-52","Female",66
+"White","2017-52","Male",127
+"White","2018-01","Female",46
+"White","2018-01","Male",88
+"White","2018-02","Female",41
+"White","2018-02","Male",93
+"White","2018-02","Unknown",1
+"White","2018-03","Female",58
+"White","2018-03","Male",91
+"White","2018-03","Unknown",1
+"White","2018-04","Female",41
+"White","2018-04","Male",95
+"White","2018-05","Female",55
+"White","2018-05","Male",113
+"White","2018-05","Unknown",1
+"White","2018-06","Female",75
+"White","2018-06","Male",123
+"White","2018-07","Female",73
+"White","2018-07","Male",117
+"White","2018-07","Unknown",5
+"White","2018-08","Female",70
+"White","2018-08","Male",109
+"White","2018-08","Unknown",3
+"White","2018-09","Female",80
+"White","2018-09","Male",152
+"White","2018-10","Female",107
+"White","2018-10","Male",181
+"White","2018-10","Unknown",1
+"White","2018-11","Female",84
+"White","2018-11","Male",191
+"White","2018-12","Female",99
+"White","2018-12","Male",158
+"White","2018-13","Female",64
+"White","2018-13","Male",137
+"White","2018-13","Unknown",3
+"White","2018-14","Female",64
+"White","2018-14","Unknown",2
+"White","2018-14","Male",154
+"White","2018-15","Female",81
+"White","2018-15","Male",140
+"White","2018-16","Female",67
+"White","2018-16","Unknown",1
+"White","2018-16","Male",139
+"White","2018-17","Female",63
+"White","2018-17","Male",151
+"White","2018-18","Female",70
+"White","2018-18","Male",146
+"White","2018-19","Female",78
+"White","2018-19","Male",141
+"White","2018-20","Female",74
+"White","2018-20","Male",170
+"White","2018-20","Unknown",2
+"White","2018-21","Female",92
+"White","2018-21","Male",157
+"White","2018-21","Unknown",1
+"White","2018-22","Female",74
+"White","2018-22","Unknown",1
+"White","2018-22","Male",169
+"White","2018-22","Unknown",2
+"White","2018-23","Female",66
+"White","2018-23","Unknown",1
+"White","2018-23","Male",121
+"White","2018-23","Unknown",1
+"White","2018-24","Female",71
+"White","2018-24","Male",120
+"White","2018-24","Unknown",1
+"White","2018-25","Female",62
+"White","2018-25","Male",134
+"White","2018-25","Unknown",1
+"White","2018-26","Female",47
+"White","2018-26","Male",112
+"White","2018-27","Female",70
+"White","2018-27","Male",164
+"White","2018-28","Female",96
+"White","2018-28","Male",146
+"White","2018-28","Unknown",4
+"White","2018-29","Female",85
+"White","2018-29","Unknown",1
+"White","2018-29","Male",139
+"White","2018-30","Female",85
+"White","2018-30","Unknown",1
+"White","2018-30","Male",146
+"White","2018-30","Unknown",2
+"White","2018-31","Female",61
+"White","2018-31","Male",119
+"White","2018-31","Unknown",1
+"White","2018-32","Female",71
+"White","2018-32","Unknown",1
+"White","2018-32","Male",123
+"White","2018-33","Female",48
+"White","2018-33","Male",119
+"White","2018-34","Female",39
+"White","2018-34","Male",114
+"White","2018-34","Unknown",1
+"White","2018-35","Female",65
+"White","2018-35","Male",137
+"White","2018-35","Unknown",2
+"White","2018-36","Female",47
+"White","2018-36","Unknown",1
+"White","2018-36","Male",89
+"White","2018-36","Unknown",1
+"White","2018-37","Female",51
+"White","2018-37","Male",105
+"White","2018-37","Unknown",2
+"White","2018-38","Female",78
+"White","2018-38","Male",182
+"White","2018-39","Female",37
+"White","2018-39","Male",88
+"White","2018-40","Female",89
+"White","2018-40","Male",136
+"White","2018-41","Female",59
+"White","2018-41","Male",111
+"White","2018-42","Female",65
+"White","2018-42","Male",119
+"White","2018-42","Unknown",1
+"White","2018-43","Female",64
+"White","2018-43","Unknown",1
+"White","2018-43","Male",123
+"White","2018-43","Unknown",1
+"White","2018-44","Female",78
+"White","2018-44","Male",124
+"White","2018-44","Unknown",1
+"White","2018-45","Female",53
+"White","2018-45","Male",103
+"White","2018-46","Female",52
+"White","2018-46","Unknown",3
+"White","2018-46","Male",104
+"White","2018-47","Female",54
+"White","2018-47","Unknown",2
+"White","2018-47","Male",98
+"White","2018-48","Female",48
+"White","2018-48","Unknown",1
+"White","2018-48","Male",90
+"White","2018-49","Female",39
+"White","2018-49","Male",67
+"White","2018-50","Female",73
+"White","2018-50","Male",123
+"White","2018-51","Female",49
+"White","2018-51","Male",152
+"White","2018-51","Unknown",1
+"White","2018-52","Female",55
+"White","2018-52","Male",93
+"White","2019-01","Female",57
+"White","2019-01","Unknown",1
+"White","2019-01","Male",118
+"White","2019-02","Female",78
+"White","2019-02","Male",151
+"White","2019-03","Female",41
+"White","2019-03","Male",96
+"White","2019-03","Unknown",1
+"White","2019-04","Female",40
+"White","2019-04","Unknown",1
+"White","2019-04","Male",86
+"White","2019-05","Female",30
+"White","2019-05","Male",67
+"White","2019-06","Female",22
+"White","2019-06","Male",71
+"White","2019-06","Unknown",1
+"White","2019-07","Female",34
+"White","2019-07","Male",66
+"White","2019-07","Unknown",1
+"White","2019-08","Female",54
+"White","2019-08","Unknown",1
+"White","2019-08","Male",103
+"White","2019-09","Female",29
+"White","2019-09","Male",77
+"White","2019-10","Female",52
+"White","2019-10","Male",97
+"White","2019-10","Unknown",1
+"White","2019-11","Female",59
+"White","2019-11","Male",103
+"White","2019-12","Female",72
+"White","2019-12","Male",118
+"White","2019-12","Unknown",1
+"White","2019-13","Female",72
+"White","2019-13","Male",136
+"White","2019-14","Female",55
+"White","2019-14","Unknown",1
+"White","2019-14","Male",117
+"White","2019-14","Unknown",1
+"White","2019-15","Female",35
+"White","2019-15","Male",84
+"White","2019-16","Female",67
+"White","2019-16","Male",138
+"White","2019-16","Unknown",1
+"White","2019-17","Female",48
+"White","2019-17","Male",124
+"White","2019-17","Unknown",1
+"White","2019-18","Female",39
+"White","2019-18","Male",78
+"White","2019-19","Female",63
+"White","2019-19","Male",92
+"White","2019-20","Female",44
+"White","2019-20","Male",81
+"White","2019-20","Unknown",2
+"White","2019-21","Female",70
+"White","2019-21","Male",136
+"White","2019-22","Female",70
+"White","2019-22","Male",107
+"White","2019-23","Female",54
+"White","2019-23","Male",82
+"White","2019-23","Unknown",1
+"White","2019-24","Female",44
+"White","2019-24","Unknown",1
+"White","2019-24","Male",93
+"White","2019-24","Unknown",1
+"White","2019-25","Female",76
+"White","2019-25","Male",91
+"White","2019-26","Female",57
+"White","2019-26","Male",118
+"White","2019-26","Unknown",2
+"White","2019-27","Female",57
+"White","2019-27","Unknown",1
+"White","2019-27","Male",132
+"White","2019-28","Female",64
+"White","2019-28","Unknown",1
+"White","2019-28","Male",123
+"White","2019-28","Unknown",3
+"White","2019-29","Female",60
+"White","2019-29","Unknown",1
+"White","2019-29","Male",130
+"White","2019-30","Female",59
+"White","2019-30","Male",117
+"White","2019-30","Unknown",2
+"White","2019-31","Female",49
+"White","2019-31","Male",123
+"White","2019-32","Female",60
+"White","2019-32","Unknown",1
+"White","2019-32","Male",125
+"White","2019-33","Female",63
+"White","2019-33","Male",107
+"White","2019-34","Female",71
+"White","2019-34","Male",126
+"White","2019-34","Unknown",1
+"White","2019-35","Female",55
+"White","2019-35","Male",116
+"White","2019-35","Unknown",1
+"White","2019-36","Female",70
+"White","2019-36","Male",153
+"White","2019-37","Female",60
+"White","2019-37","Male",110
+"White","2019-37","Unknown",1
+"White","2019-38","Female",53
+"White","2019-38","Male",125
+"White","2019-39","Female",61
+"White","2019-39","Unknown",1
+"White","2019-39","Male",164
+"White","2019-40","Female",68
+"White","2019-40","Male",109
+"White","2019-40","Unknown",2
+"White","2019-41","Female",48
+"White","2019-41","Male",82
+"White","2019-42","Female",42
+"White","2019-42","Male",93
+"White","2019-42","Unknown",2
+"White","2019-43","Female",45
+"White","2019-43","Male",83
+"White","2019-44","Female",59
+"White","2019-44","Unknown",1
+"White","2019-44","Male",90
+"White","2019-45","Female",47
+"White","2019-45","Male",102
+"White","2019-46","Female",49
+"White","2019-46","Male",104
+"White","2019-47","Female",55
+"White","2019-47","Male",81
+"White","2019-48","Female",21
+"White","2019-48","Male",68
+"White","2019-48","Unknown",1
+"White","2019-49","Female",41
+"White","2019-49","Male",93
+"White","2019-50","Female",35
+"White","2019-50","Male",78
+"White","2019-51","Female",47
+"White","2019-51","Male",116
+"White","2019-51","Unknown",1
+"White","2019-52","Female",28
+"White","2019-52","Male",76
+"White","2020-01","Female",27
+"White","2020-01","Male",52
+"White","2020-01","Unknown",1
+"White","2020-02","Female",46
+"White","2020-02","Male",90
+"White","2020-03","Female",38
+"White","2020-03","Male",74
+"White","2020-04","Female",53
+"White","2020-04","Male",112
+"White","2020-05","Female",53
+"White","2020-05","Male",126
+"White","2020-06","Female",47
+"White","2020-06","Unknown",1
+"White","2020-06","Male",112
+"White","2020-06","Unknown",2
+"White","2020-07","Female",40
+"White","2020-07","Unknown",1
+"White","2020-07","Male",89
+"White","2020-07","Unknown",2
+"White","2020-08","Female",49
+"White","2020-08","Male",77
+"White","2020-08","Unknown",1
+"White","2020-09","Female",48
+"White","2020-09","Male",93
+"White","2020-09","Unknown",1
+"White","2020-10","Female",59
+"White","2020-10","Male",89
+"White","2020-10","Unknown",1
+"White","2020-11","Female",35
+"White","2020-11","Unknown",1
+"White","2020-11","Male",91
+"White","2020-12","Female",30
+"White","2020-12","Male",87
+"White","2020-13","Female",30
+"White","2020-13","Male",62
+"White","2020-14","Female",33
+"White","2020-14","Male",75
+"White","2020-14","Unknown",1
+"White","2020-15","Female",23
+"White","2020-15","Male",102
+"White","2020-16","Female",33
+"White","2020-16","Male",86
+"White","2020-17","Female",37
+"White","2020-17","Male",73
+"White","2020-17","Unknown",1
+"White","2020-18","Female",32
+"White","2020-18","Male",78
+"White","2020-19","Female",41
+"White","2020-19","Unknown",1
+"White","2020-19","Male",88
+"White","2020-20","Female",53
+"White","2020-20","Unknown",1
+"White","2020-20","Male",91
+"White","2020-21","Female",41
+"White","2020-21","Unknown",1
+"White","2020-21","Male",101
+"White","2020-21","Unknown",1
+"White","2020-22","Female",11
+"White","2020-22","Male",38
+"White","2020-22","Unknown",1
+"White","2020-23","Female",20
+"White","2020-23","Unknown",1
+"White","2020-23","Male",63
+"White","2020-24","Female",1
+"White","2020-24","Male",4
+NA,"2016-44",NA,146
+NA,"2016-45",NA,147
+NA,"2016-46",NA,154
+NA,"2016-47",NA,115
+NA,"2016-48",NA,147
+NA,"2016-49",NA,109
+NA,"2016-50",NA,104
+NA,"2016-51",NA,109
+NA,"2016-52",NA,130
+NA,"2017-01",NA,142
+NA,"2017-02",NA,154
+NA,"2017-03",NA,161
+NA,"2017-04",NA,180
+NA,"2017-05",NA,144
+NA,"2017-06",NA,153
+NA,"2017-07",NA,197
+NA,"2017-08",NA,146
+NA,"2017-09",NA,138
+NA,"2017-10",NA,130
+NA,"2017-11",NA,178
+NA,"2017-12",NA,184
+NA,"2017-13",NA,188
+NA,"2017-14",NA,199
+NA,"2017-15",NA,160
+NA,"2017-16",NA,167
+NA,"2017-17",NA,167
+NA,"2017-18",NA,190
+NA,"2017-19",NA,160
+NA,"2017-20",NA,170
+NA,"2017-21",NA,185
+NA,"2017-22",NA,172
+NA,"2017-23",NA,188
+NA,"2017-24",NA,169
+NA,"2017-25",NA,176
+NA,"2017-26",NA,186
+NA,"2017-27",NA,169
+NA,"2017-28",NA,185
+NA,"2017-29",NA,181
+NA,"2017-30",NA,199
+NA,"2017-31",NA,186
+NA,"2017-32",NA,176
+NA,"2017-33",NA,148
+NA,"2017-34",NA,158
+NA,"2017-35",NA,217
+NA,"2017-36",NA,202
+NA,"2017-37",NA,254
+NA,"2017-38",NA,248
+NA,"2017-39",NA,211
+NA,"2017-40",NA,185
+NA,"2017-41",NA,125
+NA,"2017-42",NA,182
+NA,"2017-43",NA,136
+NA,"2017-44",NA,160
+NA,"2017-45",NA,177
+NA,"2017-46",NA,133
+NA,"2017-47",NA,125
+NA,"2017-48",NA,186
+NA,"2017-49",NA,148
+NA,"2017-50",NA,132
+NA,"2017-51",NA,132
+NA,"2017-52",NA,115
+NA,"2018-01",NA,131
+NA,"2018-02",NA,163
+NA,"2018-03",NA,147
+NA,"2018-04",NA,137
+NA,"2018-05",NA,160
+NA,"2018-06",NA,143
+NA,"2018-07",NA,149
+NA,"2018-08",NA,107
+NA,"2018-09",NA,171
+NA,"2018-10",NA,147
+NA,"2018-11",NA,170
+NA,"2018-12",NA,160
+NA,"2018-13",NA,152
+NA,"2018-14",NA,131
+NA,"2018-15",NA,125
+NA,"2018-16",NA,185
+NA,"2018-17",NA,170
+NA,"2018-18",NA,220
+NA,"2018-19",NA,204
+NA,"2018-20",NA,192
+NA,"2018-21",NA,206
+NA,"2018-22",NA,168
+NA,"2018-23",NA,165
+NA,"2018-24",NA,223
+NA,"2018-25",NA,171
+NA,"2018-26",NA,146
+NA,"2018-27",NA,179
+NA,"2018-28",NA,169
+NA,"2018-29",NA,192
+NA,"2018-30",NA,138
+NA,"2018-31",NA,165
+NA,"2018-32",NA,153
+NA,"2018-33",NA,169
+NA,"2018-34",NA,176
+NA,"2018-35",NA,176
+NA,"2018-36",NA,129
+NA,"2018-37",NA,148
+NA,"2018-38",NA,143
+NA,"2018-39",NA,134
+NA,"2018-40",NA,130
+NA,"2018-41",NA,85
+NA,"2018-42",NA,138
+NA,"2018-43",NA,139
+NA,"2018-44",NA,107
+NA,"2018-45",NA,94
+NA,"2018-46",NA,125
+NA,"2018-47",NA,107
+NA,"2018-48",NA,145
+NA,"2018-49",NA,111
+NA,"2018-50",NA,108
+NA,"2018-51",NA,119
+NA,"2018-52",NA,95
+NA,"2019-01",NA,100
+NA,"2019-02",NA,135
+NA,"2019-03",NA,114
+NA,"2019-04",NA,89
+NA,"2019-05",NA,74
+NA,"2019-06",NA,83
+NA,"2019-07",NA,38
+NA,"2019-08",NA,30
+NA,"2019-09",NA,18
+NA,"2019-10",NA,19
+NA,"2019-11",NA,17
+NA,"2019-12",NA,14
+NA,"2019-13",NA,25
+NA,"2019-14",NA,17
+NA,"2019-15",NA,25
+NA,"2019-16",NA,14
+NA,"2019-17",NA,22
+NA,"2019-18",NA,14
+NA,"2019-19",NA,22
+NA,"2019-20",NA,20
+NA,"2019-21",NA,17
+NA,"2019-22",NA,22
+NA,"2019-23",NA,34
+NA,"2019-24",NA,18
+NA,"2019-25",NA,22
+NA,"2019-26",NA,27
+NA,"2019-27",NA,34
+NA,"2019-28",NA,35
+NA,"2019-29",NA,15
+NA,"2019-30",NA,29
+NA,"2019-31",NA,29
+NA,"2019-32",NA,30
+NA,"2019-33",NA,36
+NA,"2019-34",NA,30
+NA,"2019-35",NA,28
+NA,"2019-36",NA,22
+NA,"2019-37",NA,34
+NA,"2019-38",NA,26
+NA,"2019-39",NA,25
+NA,"2019-40",NA,19
+NA,"2019-41",NA,20
+NA,"2019-42",NA,35
+NA,"2019-43",NA,24
+NA,"2019-44",NA,25
+NA,"2019-45",NA,29
+NA,"2019-46",NA,15
+NA,"2019-47",NA,23
+NA,"2019-48",NA,16
+NA,"2019-49",NA,20
+NA,"2019-50",NA,21
+NA,"2019-51",NA,18
+NA,"2019-52",NA,13
+NA,"2020-01",NA,14
+NA,"2020-02",NA,34
+NA,"2020-03",NA,24
+NA,"2020-04",NA,30
+NA,"2020-05",NA,50
+NA,"2020-06",NA,28
+NA,"2020-07",NA,17
+NA,"2020-08",NA,26
+NA,"2020-09",NA,21
+NA,"2020-10",NA,19
+NA,"2020-11",NA,51
+NA,"2020-12",NA,15
+NA,"2020-13",NA,19
+NA,"2020-14",NA,27
+NA,"2020-15",NA,23
+NA,"2020-16",NA,21
+NA,"2020-17",NA,32
+NA,"2020-18",NA,28
+NA,"2020-19",NA,22
+NA,"2020-20",NA,22
+NA,"2020-21",NA,42
+NA,"2020-22",NA,70
+NA,"2020-23",NA,52
+NA,"2020-24",NA,1
